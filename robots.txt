@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /_verifica/
+Disallow: /_sorgenti/
+
+Sitemap: https://sartonero.it/sitemap.xml

@@ -1,0 +1,28 @@
+# Sartonero
+
+> Sartonero è un gestionale in cloud per negozi di abbigliamento, pensato per chi ha 2 o 3 punti vendita. Funziona dal browser di computer, tablet e telefono, in italiano. È un prodotto di EMC Digital Solutions (Enrico Maria Caruso, Sicilia).
+
+## Cosa fa
+- Cassa veloce con lettore di codici a barre, sconti, buoni e gift card; continua a vendere anche senza internet e sincronizza al ritorno della connessione.
+- Magazzino unico per più negozi: giacenze per punto vendita, trasferimenti di merce, cambi tra negozi leggendo il cartellino.
+- Articoli con taglie e colori ed etichette con codice a barre da stampare.
+- Inventario fisico con il lettore, differenze automatiche e rettifica delle giacenze.
+- Margini e invenduto per marchio e stagione.
+- Fornitori e ordini d'acquisto con griglia taglie per colori e carico della merce.
+- Gift card vendute in cassa o online, buoni sconto, merce messa da parte con acconto.
+- Clienti e fidelity con tessera QR e consenso privacy.
+- Ruoli separati: il titolare vede tutto, la commessa solo la cassa del suo negozio.
+- Chiusura giornata via email, report vendite e resi in PDF, export completo dei dati in CSV, copia di sicurezza notturna.
+- Tour guidato per ruolo, procedura di primo avvio, app installabile sul telefono.
+
+## Cosa non fa ancora
+- Il collegamento alla stampante fiscale (registratore telematico) è in collaudo.
+
+## Come si parte
+Vendita assistita: configurazione del negozio, import del catalogo e formazione del personale fatte dal team; assistenza via email entro un giorno lavorativo. Prezzi su richiesta.
+
+## Link
+- Sito: https://sartonero.it/
+- Demo con dati di esempio: https://erp-demo.emcdigitalsolutions.it/login
+- Guida all'inventario di fine anno: https://sartonero.it/inventario-fine-anno.html
+- Contatti: emcdigitalsolution@gmail.com · +39 329 434 8075
