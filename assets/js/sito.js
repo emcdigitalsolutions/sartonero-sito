@@ -3,9 +3,9 @@
 /* ===== CONFIGURAZIONE: unico punto da modificare ===== */
 const SARTONERO = {
   // ID del video YouTube (es. 'dQw4w9WgXcQ'). Vuoto = la sezione video resta nascosta.
-  videoYouTube: '',
+  videoYouTube: 'gALCCHi0P5Q',
   // Copertina del video (si usa finché non si preme Play).
-  copertinaVideo: 'assets/img/schermate/dashboard.webp',
+  copertinaVideo: '/assets/img/video-copertina.jpg',
 };
 
 document.addEventListener('DOMContentLoaded', () => {
