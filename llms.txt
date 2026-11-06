@@ -30,6 +30,7 @@ Partenza assistita: configurazione del negozio, import del catalogo e formazione
 - [Fidelity card con QR](https://sartonero.it/fidelity-card-negozio-abbigliamento.html): punti, premi, iscrizione dal telefono, consenso privacy.
 - [Come scegliere il gestionale](https://sartonero.it/come-scegliere-gestionale-negozio-abbigliamento.html): checklist neutrale di 12 punti e risposte di Sartonero.
 - [Inventario di fine anno](https://sartonero.it/inventario-fine-anno.html): guida pratica alla conta di fine anno.
+- [Video di presentazione](https://sartonero.it/video.html): Sartonero in 90 secondi, con i capitoli (cassa, offline, trasferimenti, gift card, margini, chiusura).
 - [Manuale d'uso](https://sartonero.it/manuale.html): 24 capitoli, dalla prima vendita alla chiusura della giornata.
 - [Testo completo per motori di ricerca e assistenti](https://sartonero.it/llms-full.txt)
 

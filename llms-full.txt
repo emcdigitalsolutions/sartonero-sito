@@ -1,6 +1,6 @@
 # Sartonero: testo completo per motori di ricerca e assistenti
 
-Fonte ufficiale: https://sartonero.it/ · Aggiornato: 2026-11-05 · Lingua: italiano
+Fonte ufficiale: https://sartonero.it/ · Aggiornato: 2026-11-06 · Lingua: italiano
 
 ## Cos'è
 Sartonero è un gestionale in cloud per negozi di abbigliamento, pensato soprattutto per chi ha 2 o 3 punti vendita. Si usa dal browser di computer, tablet e telefono, senza programmi da installare, e sul telefono si aggiunge alla schermata Home come un'app. È un prodotto di EMC Digital Solutions di Enrico Maria Caruso (Sicilia). È nato dietro la cassa di un vero negozio di abbigliamento con due punti vendita in Sicilia.
@@ -188,6 +188,10 @@ Non è indispensabile: molti negozi emettono lo scontrino fiscale con il registr
 #### Cosa devo provare durante la demo di un gestionale?
 I casi difficili del tuo negozio: un cambio taglia con differenza da pagare, un reso tra negozi, una vendita senza internet, una gift card usata in parte, la chiusura della giornata e l'export dei dati.
 
+
+## Video di presentazione (https://sartonero.it/video.html)
+Sartonero in 90 secondi (1:31), anche su YouTube: https://www.youtube.com/watch?v=gALCCHi0P5Q · versione verticale da 41 secondi: https://youtube.com/shorts/O3BdYy_KKw0
+Capitoli: 0:00 Sartonero in breve · 0:04 Tutti i negozi a colpo d'occhio · 0:11 Vendita in cassa: taglia, colore, incasso · 0:28 Cassa anche senza internet · 0:44 Trasferimenti di merce tra negozi · 0:58 Gift card vendute in cassa · 1:08 Margini e invenduto per marchio · 1:18 Chiusura di giornata via email · 1:26 Prova la demo
 
 ## Manuale d'uso (https://sartonero.it/manuale.html)
 Manuale d'uso di Sartonero passo per passo: cassa anche offline, resi e cambi, gift card, buoni, fidelity, magazzino per più negozi, chiusura e report.

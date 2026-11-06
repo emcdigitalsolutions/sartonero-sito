@@ -106,19 +106,26 @@ document.addEventListener('DOMContentLoaded', () => {
     }
   }
 
-  // video: compare solo se c'è un ID; il lettore YouTube si carica al clic (privacy e velocità)
+  // video: compare solo se c'è un ID; il lettore YouTube si carica al clic (privacy e velocità).
+  // I pulsanti [data-inizio] (capitoli della pagina /video) fanno partire il video da quel secondo.
   const sezioneVideo = document.getElementById('video');
   if (sezioneVideo && SARTONERO.videoYouTube) {
     sezioneVideo.hidden = false;
+    const cornice = sezioneVideo.querySelector('.cornice');
     const copertina = sezioneVideo.querySelector('.video-copertina');
     copertina.style.backgroundImage = `url(${SARTONERO.copertinaVideo})`;
-    copertina.addEventListener('click', () => {
+    const avvia = (inizio = 0) => {
       const f = document.createElement('iframe');
-      f.src = `https://www.youtube-nocookie.com/embed/${encodeURIComponent(SARTONERO.videoYouTube)}?autoplay=1&rel=0`;
+      f.src = `https://www.youtube-nocookie.com/embed/${encodeURIComponent(SARTONERO.videoYouTube)}?autoplay=1&rel=0${inizio ? `&start=${inizio}` : ''}`;
       f.title = 'Sartonero in 90 secondi';
       f.allow = 'autoplay; encrypted-media; picture-in-picture';
       f.allowFullscreen = true;
-      copertina.replaceWith(f);
-    }, { once: true });
+      cornice.replaceChildren(f);
+    };
+    copertina.addEventListener('click', () => avvia(), { once: true });
+    document.querySelectorAll('[data-inizio]').forEach((b) => b.addEventListener('click', () => {
+      avvia(Number(b.dataset.inizio));
+      cornice.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    }));
   }
 });
