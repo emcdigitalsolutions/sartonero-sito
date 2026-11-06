@@ -196,7 +196,7 @@ body::before{content:"";position:fixed;inset:0;pointer-events:none;z-index:60;op
 
 /* piè di pagina */
 .piede{border-top:1px solid var(--linea);padding:56px 0 40px;background:var(--nero);font-size:.92rem;color:var(--tenue)}
-.piede .contenitore{display:grid;grid-template-columns:1.3fr 1fr 1fr;gap:40px}
+.piede .contenitore{display:grid;grid-template-columns:1.3fr 1fr 1.2fr 1fr;gap:40px}
 .piede img{height:56px;width:auto;margin-bottom:16px}
 .piede h3{font-family:var(--sans);font-size:.78rem;letter-spacing:.2em;text-transform:uppercase;color:var(--oro);font-weight:600}
 .piede ul{list-style:none;margin:0;padding:0;display:grid;gap:8px}
@@ -216,6 +216,97 @@ body::before{content:"";position:fixed;inset:0;pointer-events:none;z-index:60;op
 .riquadro h2{margin-top:0}
 .indice{font-size:.92rem;color:var(--tenue);margin-bottom:28px}
 
+/* ---------- guide e approfondimenti ---------- */
+.griglia-guide{display:grid;grid-template-columns:repeat(4,1fr);gap:18px}
+a.guida{display:flex;flex-direction:column;text-decoration:none;color:var(--testo);padding:26px 24px 22px}
+a.guida h3{font-size:1.02rem;margin-bottom:.5em}
+a.guida p{font-size:.93rem;color:var(--tenue);flex:1}
+a.guida .vai{display:inline-flex;align-items:center;gap:8px;margin-top:16px;font-size:.78rem;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:var(--oro)}
+a.guida .vai svg{width:16px;height:16px;transition:transform .3s}
+a.guida:hover{color:var(--testo)}
+a.guida:hover .vai svg{transform:translateX(4px)}
+
+/* pagine guida */
+.articolo .occhiello{margin-bottom:14px}
+.articolo .attacco{font-size:clamp(1.08rem,1.5vw,1.2rem);color:var(--avorio)}
+.articolo h3{margin-top:1.6em}
+.in-breve{margin:2em 0;padding:24px 26px;border-left:2px solid var(--oro);background:rgba(26,18,11,.6);border-radius:0 var(--raggio) var(--raggio) 0}
+.articolo .in-breve h2{font-size:.85rem;font-family:var(--sans);letter-spacing:.24em;text-transform:uppercase;color:var(--oro);margin:0 0 12px}
+.in-breve ul{margin:0}
+.figura{margin:2.4em 0}
+.figura figcaption{margin-top:12px;font-size:.9rem;color:var(--tenue)}
+.figura.stretta{max-width:300px;margin-inline:auto}
+.figura.stretta .cornice{border-radius:28px;border:6px solid #1d140c}
+.figura.stretta .cornice img{aspect-ratio:auto}
+.tabella{overflow-x:auto;margin:1.6em 0;border:1px solid var(--linea);border-radius:14px;-webkit-overflow-scrolling:touch}
+.tabella table{width:100%;border-collapse:collapse;font-size:.95rem}
+.tabella th{font-family:var(--sans);font-weight:600;text-align:left;color:var(--avorio);background:rgba(42,27,16,.8);padding:12px 14px;font-size:.78rem;letter-spacing:.12em;text-transform:uppercase}
+.tabella td{padding:12px 14px;border-top:1px solid var(--linea);vertical-align:top}
+.tabella td:first-child{color:var(--avorio);font-weight:600}
+.tabella .c{text-align:center}
+.tabella .si{color:var(--oro-chiaro)}
+.tabella .no{color:#8a7a60}
+.griglia-taglie td,.griglia-taglie th{text-align:center}
+.griglia-taglie td:first-child,.griglia-taglie th:first-child{text-align:left}
+.etichetta{display:inline-block;padding:2px 10px;border-radius:999px;font-size:.72rem;font-weight:600;letter-spacing:.12em;text-transform:uppercase;border:1px solid var(--linea-forte);color:var(--oro-chiaro);white-space:nowrap}
+.etichetta.arrivo{border-style:dashed;color:var(--tenue)}
+.lista-controllo{list-style:none;counter-reset:c;padding:0!important;margin:1.6em 0;display:grid;gap:14px}
+.lista-controllo>li{counter-increment:c;position:relative;margin:0!important;padding:20px 22px 18px 74px;border:1px solid var(--linea);border-radius:var(--raggio);background:linear-gradient(170deg,rgba(42,27,16,.55),rgba(18,13,9,.85))}
+.lista-controllo>li::marker{content:""}
+.lista-controllo>li::before{content:counter(c,decimal-leading-zero);position:absolute;left:20px;top:18px;width:38px;height:38px;border-radius:50%;display:grid;place-items:center;border:1px solid var(--linea-forte);font-family:var(--serif);font-size:.9rem;color:var(--oro-chiaro);background:radial-gradient(circle at 30% 25%,#3a2614,#120d09)}
+.articolo .lista-controllo h3{margin:0 0 .4em;font-size:1.08rem}
+.lista-controllo p{margin:0 0 .5em}
+.lista-controllo .chiedi{font-size:.93rem;color:var(--tenue);margin:0}
+.lista-controllo .chiedi b{color:var(--oro)}
+.articolo .domande{margin-top:1.4em}
+.cta-finale{margin:3em 0 0;padding:clamp(28px,5vw,44px);text-align:center;border-radius:24px;border:1px solid var(--linea-forte);background:radial-gradient(ellipse 80% 120% at 50% 120%,rgba(212,162,76,.24),transparent 60%),linear-gradient(160deg,#21160d,#0f0b07)}
+.articolo .cta-finale h2,.cta-finale h2{margin-top:0}
+.cta-finale p{max-width:34em;margin:0 auto 24px}
+.cta-finale .azioni{justify-content:center}
+.bottone svg.wa{width:20px;height:20px}
+.percorso{display:inline-block;font-size:.86rem;font-weight:600;color:var(--oro-chiaro);background:rgba(74,46,20,.5);border:1px solid var(--linea);padding:0 8px;border-radius:6px}
+kbd{font-family:var(--sans);font-size:.85em;padding:1px 6px;border:1px solid var(--linea-forte);border-radius:5px;background:var(--bruno-2);color:var(--avorio)}
+.nota-piccola{font-size:.92rem;color:var(--tenue)}
+
+.articolo .griglia-guide{grid-template-columns:1fr 1fr}
+.articolo section+section,.articolo .riquadro+section{margin-top:2.4em}
+
+/* ---------- manuale ---------- */
+.manuale{display:grid;grid-template-columns:270px minmax(0,1fr);gap:56px;align-items:start}
+.manuale-indice{position:sticky;top:100px;max-height:calc(100vh - 120px);overflow-y:auto;padding-right:6px;scrollbar-width:thin;scrollbar-color:var(--cuoio) transparent}
+.manuale-indice summary{list-style:none;font-family:var(--sans);font-size:.78rem;letter-spacing:.22em;text-transform:uppercase;color:var(--oro);font-weight:600;margin-bottom:12px;pointer-events:none}
+.manuale-indice summary::-webkit-details-marker{display:none}
+.manuale-indice ol{list-style:none;margin:0;padding:0;display:grid;gap:2px}
+.manuale-indice a{display:flex;gap:10px;padding:6px 10px;border-radius:8px;border-left:2px solid transparent;color:var(--tenue);text-decoration:none;font-size:.9rem;line-height:1.4}
+.manuale-indice a span{font-family:var(--serif);color:var(--oro);min-width:22px;font-size:.82rem;padding-top:1px}
+.manuale-indice a:hover{color:var(--avorio);background:rgba(74,46,20,.3)}
+.manuale-indice a.attivo{color:var(--oro-chiaro);border-left-color:var(--oro);background:rgba(74,46,20,.4)}
+.manuale-testo{max-width:780px;min-width:0}
+.manuale-testo>section{scroll-margin-top:100px}
+.manuale-testo h1{font-size:clamp(2rem,4.6vw,3.2rem)}
+.manuale-testo h2{display:flex;align-items:baseline;gap:14px;font-size:clamp(1.4rem,2.4vw,1.8rem);margin-top:2.4em;padding-bottom:14px;border-bottom:1px solid var(--linea)}
+.manuale-testo h2 .cap{font-size:.95rem;color:var(--oro);flex:none}
+.manuale-testo h3{margin-top:1.8em}
+.manuale-testo ul,.manuale-testo ol{padding-left:1.3em}
+.manuale-testo li{margin-bottom:.5em}
+.manuale-testo li::marker{color:var(--oro)}
+ol.passi-manuale{list-style:none;counter-reset:pm;padding:0;margin:1.2em 0 1.6em;display:grid;gap:8px}
+ol.passi-manuale>li{counter-increment:pm;position:relative;margin:0;padding:12px 16px 12px 58px;border:1px solid var(--linea);border-radius:12px;background:rgba(26,18,11,.6)}
+ol.passi-manuale>li::before{content:counter(pm);position:absolute;left:14px;top:11px;width:30px;height:30px;border-radius:50%;display:grid;place-items:center;background:var(--grad-oro);color:#1a1006;font-weight:600;font-size:.85rem}
+.avviso{margin:1.4em 0;padding:14px 18px;border-radius:12px;border:1px solid var(--linea-forte);background:rgba(74,46,20,.35);font-size:.96rem}
+.avviso.attenzione{border-color:rgba(200,120,90,.45);background:rgba(110,50,30,.22)}
+.avviso>b:first-child{color:var(--oro-chiaro)}
+.scorciatoie{display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:10px;margin:1.4em 0}
+.scorciatoie a{padding:12px 14px;border:1px solid var(--linea);border-radius:12px;text-decoration:none;color:var(--avorio);background:rgba(26,18,11,.6);font-size:.94rem}
+.scorciatoie a:hover{border-color:var(--linea-forte);color:var(--oro-chiaro)}
+
+/* ---------- WhatsApp flottante ---------- */
+.wa-flottante{position:fixed;right:18px;bottom:max(18px,env(safe-area-inset-bottom));z-index:45;width:54px;height:54px;border-radius:50%;display:grid;place-items:center;color:#1a1006;background:var(--grad-oro);box-shadow:0 12px 30px -8px rgba(0,0,0,.8),0 0 0 1px rgba(247,220,149,.5);transition:transform .3s,box-shadow .3s}
+.wa-flottante svg{width:28px;height:28px}
+.wa-flottante:hover{color:#1a1006;transform:translateY(-3px) scale(1.04);box-shadow:0 18px 36px -10px rgba(0,0,0,.85),0 0 0 1px rgba(247,220,149,.8)}
+body.menu-aperto .wa-flottante{opacity:0;visibility:hidden}
+@media print{.wa-flottante,.testata{display:none!important}}
+
 /* comparse */
 .appare{opacity:0;transform:translateY(28px);transition:opacity .9s cubic-bezier(.2,.7,.2,1),transform .9s cubic-bezier(.2,.7,.2,1);transition-delay:var(--rit,0s)}
 .appare.visto{opacity:1;transform:none}
@@ -234,6 +325,17 @@ body::before{content:"";position:fixed;inset:0;pointer-events:none;z-index:60;op
   .passi::before{display:none}
   .piede .contenitore{grid-template-columns:1fr 1fr}
   .piede .contenitore>div:first-child{grid-column:1/-1}
+  .griglia-guide{grid-template-columns:1fr 1fr}
+  .manuale{grid-template-columns:1fr;gap:20px}
+  .manuale-indice{position:static;max-height:none;overflow:visible;border:1px solid var(--linea);border-radius:14px;padding:4px 16px;background:rgba(26,18,11,.6)}
+  .manuale-indice summary{pointer-events:auto;cursor:pointer;margin:0;padding:14px 0;display:flex;justify-content:space-between}
+  .manuale-indice summary::after{content:"+";font-size:1.2rem;line-height:1;color:var(--oro)}
+  .manuale-indice[open] summary::after{content:"\2212"}
+  .manuale-indice ol{padding-bottom:14px}
+}
+@media (max-width:1180px) and (min-width:861px){
+  .menu{gap:20px}
+  .menu a{font-size:.8rem;letter-spacing:.1em}
 }
 @media (max-width:860px){
   .apri-menu{display:block}
@@ -254,10 +356,16 @@ body::before{content:"";position:fixed;inset:0;pointer-events:none;z-index:60;op
   .scheda.larga{grid-column:auto;display:block}
   .passi{grid-template-columns:1fr}
   .azioni .bottone{flex:1 1 100%}
+  .bottone{white-space:normal;text-align:center;line-height:1.3;padding-block:10px}
   .colonna{padding:28px 22px}
   .vetrina .cartellino{left:2%;bottom:-16%;font-size:.78rem}
   .vetrina .telefono{right:-2%}
   .piede .contenitore{grid-template-columns:1fr}
+  .griglia-guide,.articolo .griglia-guide{grid-template-columns:1fr}
+  .lista-controllo>li{padding:66px 18px 16px}
+  .lista-controllo>li::before{left:18px;top:16px}
+  .wa-flottante{right:14px;width:50px;height:50px}
+  .piede{padding-bottom:88px}
   .marchio .scritta{height:18px}
   .marchio img{height:38px}
 }

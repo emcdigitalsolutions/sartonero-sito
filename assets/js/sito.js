@@ -22,10 +22,11 @@ document.addEventListener('DOMContentLoaded', () => {
   const bottoneMenu = document.querySelector('.apri-menu');
   const menu = document.getElementById('menu');
   if (bottoneMenu && menu) {
-    const chiudi = () => { menu.classList.remove('aperto'); bottoneMenu.setAttribute('aria-expanded', 'false'); };
+    const chiudi = () => { menu.classList.remove('aperto'); bottoneMenu.setAttribute('aria-expanded', 'false'); document.body.classList.remove('menu-aperto'); };
     bottoneMenu.addEventListener('click', () => {
       const aperto = menu.classList.toggle('aperto');
       bottoneMenu.setAttribute('aria-expanded', String(aperto));
+      document.body.classList.toggle('menu-aperto', aperto);
     });
     menu.querySelectorAll('a').forEach((a) => a.addEventListener('click', chiudi));
     document.addEventListener('keydown', (e) => { if (e.key === 'Escape') chiudi(); });
@@ -81,6 +82,28 @@ document.addEventListener('DOMContentLoaded', () => {
       immagine.onload = () => immagine.classList.remove('cambia');
       if (immagine.complete) immagine.classList.remove('cambia');
     }, 220);
+  }
+
+  // manuale: indice richiudibile su telefono e capitolo in lettura evidenziato
+  const indice = document.querySelector('.manuale-indice');
+  if (indice) {
+    const stretto = window.matchMedia('(max-width:1020px)');
+    if (stretto.matches) indice.removeAttribute('open');
+    const voci = indice.querySelectorAll('a[href^="#"]');
+    voci.forEach((a) => a.addEventListener('click', () => { if (stretto.matches) indice.removeAttribute('open'); }));
+    if ('IntersectionObserver' in window) {
+      const ossIndice = new IntersectionObserver((sezioni) => {
+        sezioni.forEach((s) => {
+          if (!s.isIntersecting) return;
+          voci.forEach((a) => {
+            const attivo = a.getAttribute('href') === `#${s.target.id}`;
+            a.classList.toggle('attivo', attivo);
+            if (attivo) a.setAttribute('aria-current', 'true'); else a.removeAttribute('aria-current');
+          });
+        });
+      }, { rootMargin: '-20% 0px -70% 0px' });
+      document.querySelectorAll('.manuale-testo > section[id]').forEach((s) => ossIndice.observe(s));
+    }
   }
 
   // video: compare solo se c'è un ID; il lettore YouTube si carica al clic (privacy e velocità)

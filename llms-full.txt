@@ -1,0 +1,872 @@
+# Sartonero: testo completo per motori di ricerca e assistenti
+
+Fonte ufficiale: https://sartonero.it/ · Aggiornato: 2026-11-05 · Lingua: italiano
+
+## Cos'è
+Sartonero è un gestionale in cloud per negozi di abbigliamento, pensato soprattutto per chi ha 2 o 3 punti vendita. Si usa dal browser di computer, tablet e telefono, senza programmi da installare, e sul telefono si aggiunge alla schermata Home come un'app. È un prodotto di EMC Digital Solutions di Enrico Maria Caruso (Sicilia). È nato dietro la cassa di un vero negozio di abbigliamento con due punti vendita in Sicilia.
+
+## Funzioni disponibili
+- Cassa veloce con lettore di codici a barre, ricerca per nome, sconti, buoni, gift card, pagamento in contanti, carta o misto.
+- Cassa anche senza internet: le vendite restano salvate sul dispositivo e si sincronizzano da sole al ritorno della connessione, una sola volta e con l'ora reale. Il reso richiede la connessione.
+- Più negozi con un solo magazzino: giacenze per punto vendita, trasferimenti (bozza, richiesto, in transito, ricevuto anche parzialmente), giacenze dell'altra sede in sola lettura, cambi e resi tra negozi leggendo lo scontrino o il cartellino.
+- Taglie e colori: ogni articolo ha varianti con codice a barre, giacenza per negozio e scorta minima; etichette con codice a barre e prezzo da stampare all'arrivo della merce.
+- Inventario fisico con il lettore, anche in più persone e da più dispositivi, con differenze e rettifica delle giacenze.
+- Margini e invenduto per marchio, categoria e stagione, con i capi fermi.
+- Fornitori e ordini con griglia colori per taglie, suggerimento di riordino, ricevimento anche parziale con carico della merce.
+- Gift card vendute in cassa o online sul sito del negozio (pagamento con carta, invio per email), valide in tutti i negozi; buoni sconto automatici o manuali; buono reso a scalare; merce messa da parte con acconto.
+- Clienti e fidelity: tessera con QR e punti, premio proposto in cassa, consenso privacy dato dal cliente dal proprio telefono e registrato con la data, iscrizione autonoma con locandina QR.
+- Ruoli separati: titolare (vede tutto), responsabile, commessa (solo il proprio negozio).
+- Chiusura giornata via email con report PDF, anche automatica; report vendite e resi; export completo dei dati in qualsiasi momento; copia di sicurezza ogni notte.
+- Tour guidato, procedura di primo avvio, aspetto del gestionale con logo e colori del negozio.
+
+## Cosa non c'è ancora
+- Collegamento alla stampante fiscale (registratore telematico): in arrivo, non ancora disponibile. Oggi lo scontrino fiscale si emette con il proprio registratore; Sartonero stampa lo scontrino di cortesia e lo scontrino regalo.
+
+## Come si parte e assistenza
+Partenza assistita: configurazione dei negozi e degli utenti, import del catalogo anche da file CSV e formazione del personale fatte da EMC Digital Solutions. Assistenza via email entro un giorno lavorativo. Prezzi su richiesta.
+
+## Demo e contatti
+- Demo con dati di esempio, accesso con un clic come titolare o commessa: https://erp-demo.emcdigitalsolutions.it/login
+- Email: info@emcdigitalsolutions.it
+- WhatsApp e telefono: +39 329 434 8075 (https://wa.me/393294348075)
+- Prenota una chiamata: https://calendly.com/emcdigitalsolution/30min
+
+## Domande frequenti (pagina iniziale)
+### Sartonero funziona anche se cade internet?
+Sì. La cassa continua a vendere anche senza linea: le vendite restano salvate sul dispositivo e si sincronizzano da sole appena torna la connessione.
+
+### Posso gestire più negozi con un solo gestionale?
+Sì, Sartonero è pensato per chi ha 2 o 3 punti vendita: giacenze per negozio, trasferimenti di merce e cambi tra negozi leggendo il cartellino. Il titolare vede tutti i negozi, ogni commessa vede solo la cassa del proprio.
+
+### Su quali dispositivi funziona?
+Funziona dal browser di computer, tablet e telefono, senza programmi da installare sul PC. Sul telefono si può aggiungere alla schermata Home come un'app.
+
+### I dati del mio negozio sono al sicuro?
+Ogni negozio vede solo i propri dati, gli accessi sono separati per ruolo e ogni notte viene fatta una copia di sicurezza automatica dei dati.
+
+### Posso esportare i miei dati?
+Sì. Dalle impostazioni puoi scaricare in qualsiasi momento tutti i dati del negozio in file CSV, apribili con Excel: i dati restano tuoi.
+
+### Funziona con la stampante fiscale?
+Oggi Sartonero stampa le etichette con il codice a barre e la ricevuta di cortesia. Il collegamento con la stampante fiscale è in collaudo e arriverà a breve.
+
+### Quanto tempo serve per partire?
+Pochi giorni. Configuriamo noi negozi, utenti e commesse, importiamo il catalogo anche da file CSV e formiamo il personale. Il tour guidato accompagna titolare e commesse nei primi giorni.
+
+### Che assistenza è prevista?
+Assistenza via email con risposta entro un giorno lavorativo, più la guida integrata nel gestionale con la ricerca per argomento.
+
+### Posso vendere gift card anche online?
+Sì. Le gift card si vendono in cassa oppure sul sito del negozio con pagamento online, e il cliente può usarle anche in più volte.
+
+### Come posso provare Sartonero?
+C'è un negozio dimostrativo con dati di esempio: si entra con un clic come titolare o come commessa e si può fare anche una vendita. Ogni notte la demo torna come nuova.
+
+
+## Gestionale per più negozi (https://sartonero.it/gestionale-piu-negozi.html)
+Due o tre punti vendita, un solo magazzino: giacenze per negozio, trasferimenti tracciati, cambi tra sedi e ruoli separati. Guida pratica e demo.
+
+### Domande frequenti
+#### Posso vedere dalla cassa se un capo è disponibile nell'altro negozio?
+Sì. Commesse e responsabili possono consultare in sola lettura le giacenze degli altri punti vendita, per dire subito al cliente dove trovare la taglia o il colore che cerca.
+
+#### Quando la merce trasferita esce dalla giacenza del negozio di partenza?
+Al momento della spedizione. Bozza e richiesta non toccano le giacenze; la merce entra nel negozio di destinazione quando viene confermata la ricezione, anche parziale se qualcosa manca.
+
+#### Un cliente può cambiare in un negozio un capo comprato nell'altro?
+Sì. Si legge lo scontrino, anche quello regalo, oppure il cartellino del capo: il reso si registra nel negozio in cui ci si trova e la merce rientra lì. La commessa vede solo articoli e prezzi pagati, non i dati del cliente.
+
+#### La commessa di un negozio vede le vendite dell'altro?
+No. Commesse e responsabili lavorano solo sui negozi a cui sono assegnati; soltanto il titolare vede tutti i negozi insieme.
+
+#### Posso aggiungere un punto vendita in un secondo momento?
+Sì. Il titolare aggiunge il nuovo negozio dalle impostazioni e assegna le persone che ci lavorano; catalogo e gift card restano unici per tutti i punti vendita.
+
+
+## Magazzino taglie e colori (https://sartonero.it/magazzino-taglie-colori.html)
+Come gestire il magazzino di un negozio di abbigliamento per taglia e colore: varianti, codici a barre, etichette, ordini con la griglia e scorta minima.
+
+### Domande frequenti
+#### Posso usare i codici a barre già presenti sui cartellini dei fornitori?
+Sì. Il codice di ogni taglia e colore si carica con l'import da file CSV oppure leggendolo in cassa con l'aggiunta rapida: da quel momento basta passarlo con il lettore.
+
+#### Come si stampano le etichette con il codice a barre?
+Quando registri l'arrivo di un ordine al fornitore, Sartonero prepara in PDF le etichette con codice a barre e prezzo dei capi arrivati, una per ogni taglia e colore, pronte da stampare.
+
+#### Posso caricare tutto il catalogo in una volta?
+Sì, con un file CSV che si compila con Excel, una riga per ogni variante. Prima di confermare compare un'anteprima con gli eventuali errori riga per riga; marchi e categorie mancanti vengono creati da soli.
+
+#### Come capisco quali taglie devo riordinare?
+Ogni variante ha la sua scorta minima e gli articoli sotto scorta sono evidenziati. Nell'ordine al fornitore il pulsante «Suggerisci riordino» aggiunge da solo i capi del negozio sotto la scorta minima, per la quantità che manca.
+
+#### Cosa succede se leggo il codice dell'articolo invece di quello della taglia?
+In cassa si apre la scelta della taglia e del colore. Nell'inventario fisico, invece, il codice dell'articolo vale solo se l'articolo ha una sola taglia: altrimenti va letta l'etichetta della singola taglia.
+
+
+## Gift card e buoni (https://sartonero.it/gift-card-negozio.html)
+Gift card vendute in cassa o sul sito del negozio, buoni sconto e buono reso: differenze, regole utili, IVA e come gestirle senza carta e penna.
+
+### Domande frequenti
+#### Posso vendere gift card dal sito del mio negozio?
+Sì. Le gift card si acquistano sul sito del negozio con pagamento con carta online; chi la riceve ottiene per email un PDF con logo e colori del negozio, e la card si usa in cassa come quelle vendute al banco.
+
+#### Una gift card si può usare in più acquisti?
+Sì, è a scalare: a ogni utilizzo la cassa toglie l'importo speso e mostra il saldo residuo, fino a esaurimento. Vale in tutti i punti vendita.
+
+#### Le gift card scadono?
+In Sartonero la validità standard è di 12 mesi; titolare e responsabile possono impostare una scadenza diversa.
+
+#### Che differenza c'è tra gift card e buono sconto?
+La gift card è un credito pagato dal cliente, spesso per regalarlo. Il buono sconto è un regalo del negozio, in euro o in percentuale, con soglie, valore massimo e scadenze decise dal titolare.
+
+#### Come si gestisce l'IVA sulle gift card?
+La gift card è trattata come buono multiuso: non si batte come un articolo e l'IVA si applica quando il cliente la spende per comprare la merce. Per i dettagli fiscali fa fede il commercialista del negozio.
+
+#### Cosa succede se un cliente perde la gift card?
+Titolare o responsabile possono disattivarla dal gestionale: da quel momento il codice non è più utilizzabile in cassa.
+
+
+## Fidelity card con QR (https://sartonero.it/fidelity-card-negozio-abbigliamento.html)
+Tessera fedeltà con QR per negozi di abbigliamento: punti, premi, iscrizione dal telefono e consenso privacy dato dal cliente. Guida pratica e demo.
+
+### Domande frequenti
+#### Serve una tessera di plastica?
+No. Ogni cliente ha un codice tessera univoco e può vedere la tessera digitale con i punti dal proprio telefono; in cassa la si trova per nome, telefono o codice tessera.
+
+#### Come si raccoglie il consenso privacy?
+Il cliente inquadra con il telefono il codice QR mostrato in cassa o nella scheda cliente, legge l'informativa e conferma. Il consenso viene registrato con la data.
+
+#### La commessa può dare il consenso al posto del cliente?
+No. In Sartonero il consenso lo dà solo la persona interessata, dal proprio telefono: la commessa non può spuntarlo al suo posto.
+
+#### Il cliente può iscriversi da solo?
+Sì, inquadrando il QR della locandina «Iscriviti alla Carta Fedeltà»: compila il modulo dal telefono, accetta l'informativa e riceve subito il codice della tessera.
+
+#### Cosa succede ai punti se il cliente rende un capo?
+I punti guadagnati con quella vendita vengono tolti in proporzione al valore reso, in automatico.
+
+
+## Cassa senza internet (https://sartonero.it/cassa-senza-internet.html)
+Cosa succede alla cassa del negozio quando cade la linea: vendite salvate sul dispositivo, invio automatico al ritorno della rete, niente doppioni.
+
+### Domande frequenti
+#### La cassa si blocca se cade internet?
+No. Le vendite restano salvate sul dispositivo e si sincronizzano da sole appena torna la connessione: il gestionale riprova ogni minuto.
+
+#### Una vendita fatta senza connessione può essere registrata due volte?
+No. Sartonero registra ogni vendita una sola volta, anche se la connessione cade a metà dell'invio.
+
+#### Che data e ora risultano su una vendita fatta offline?
+Quelle reali del momento della vendita. Una vendita della sera inviata la mattina dopo finisce nella chiusura del giorno giusto, con la nota «Registrata senza connessione».
+
+#### Posso fare un reso senza connessione?
+No, il reso richiede la connessione perché deve controllare la vendita originale e quanto è già stato reso. Le vendite, invece, si fanno anche offline.
+
+#### La cassa è collegata alla stampante fiscale?
+Il collegamento alla stampante fiscale è in arrivo. Oggi lo scontrino fiscale si emette con il registratore telematico del negozio, mentre Sartonero stampa lo scontrino di cortesia e lo scontrino regalo.
+
+#### Serve installare un programma sul computer della cassa?
+No. Sartonero funziona dal browser di computer, tablet e telefono; su telefono e tablet si può aggiungere alla schermata Home come un'app.
+
+
+## Come scegliere il gestionale (https://sartonero.it/come-scegliere-gestionale-negozio-abbigliamento.html)
+Dodici punti da verificare prima di scegliere il gestionale per un negozio di abbigliamento: taglie, più negozi, cassa offline, fiscale e dati.
+
+### Domande frequenti
+#### Meglio un gestionale in cloud o installato sul computer?
+Il cloud si usa da qualsiasi dispositivo, custodisce i dati fuori dal negozio e mette in comune più punti vendita senza un server in casa. Il suo punto debole è la connessione: per questo conviene scegliere una cassa che continui a vendere anche offline.
+
+#### Quanto tempo serve per passare a un nuovo gestionale?
+Dipende soprattutto dal catalogo. Se gli articoli si possono importare da un file, con configurazione e formazione si parte in pochi giorni; la parte più lunga di solito è sistemare etichette e codici a barre.
+
+#### Posso portare il catalogo dal vecchio programma?
+Quasi sempre sì, se il vecchio programma esporta in CSV o in Excel. Verifica che il nuovo gestionale importi una riga per variante, con taglia, colore e codice a barre, e mostri gli errori prima di confermare.
+
+#### Il gestionale deve essere collegato al registratore telematico?
+Non è indispensabile: molti negozi emettono lo scontrino fiscale con il registratore e usano il gestionale per magazzino e incassi. Il collegamento evita di battere due volte la vendita, quindi chiedi per iscritto se c'è già o quando arriverà.
+
+#### Cosa devo provare durante la demo di un gestionale?
+I casi difficili del tuo negozio: un cambio taglia con differenza da pagare, un reso tra negozi, una vendita senza internet, una gift card usata in parte, la chiusura della giornata e l'export dei dati.
+
+
+## Manuale d'uso (https://sartonero.it/manuale.html)
+Manuale d'uso di Sartonero passo per passo: cassa anche offline, resi e cambi, gift card, buoni, fidelity, magazzino per più negozi, chiusura e report.
+
+Capitoli:
+1. Introduzione (https://sartonero.it/manuale.html#introduzione)
+2. Primo accesso e negozi (https://sartonero.it/manuale.html#primo-accesso)
+3. Dashboard (https://sartonero.it/manuale.html#dashboard)
+4. Prodotti e varianti (https://sartonero.it/manuale.html#prodotti)
+5. Magazzino, inventario e ordini (https://sartonero.it/manuale.html#magazzino)
+6. Trasferimenti tra negozi (https://sartonero.it/manuale.html#trasferimenti)
+7. Cassa: nuova vendita (https://sartonero.it/manuale.html#cassa)
+8. Scontrino e scontrino regalo (https://sartonero.it/manuale.html#scontrino)
+9. Vendere senza connessione (https://sartonero.it/manuale.html#offline)
+10. Resi, cambi e buono reso (https://sartonero.it/manuale.html#resi)
+11. Merce da parte con acconto (https://sartonero.it/manuale.html#merce-da-parte)
+12. Gift card (https://sartonero.it/manuale.html#gift-card)
+13. Buoni sconto (https://sartonero.it/manuale.html#buoni-sconto)
+14. Saldi e politica sconti (https://sartonero.it/manuale.html#saldi)
+15. Clienti e consenso privacy (https://sartonero.it/manuale.html#clienti)
+16. Programma fedeltà a punti (https://sartonero.it/manuale.html#fedelta)
+17. Materiale da stampare (https://sartonero.it/manuale.html#locandine)
+18. Chiusura giornata (https://sartonero.it/manuale.html#chiusura)
+19. Report e analisi (https://sartonero.it/manuale.html#report)
+20. Utenti, commesse e ruoli (https://sartonero.it/manuale.html#utenti)
+21. Impostazioni (https://sartonero.it/manuale.html#impostazioni)
+22. I tuoi dati e sicurezza (https://sartonero.it/manuale.html#dati)
+23. In arrivo (https://sartonero.it/manuale.html#in-arrivo)
+24. Assistenza e domande frequenti (https://sartonero.it/manuale.html#assistenza)
+
+### 1. Introduzione
+Sartonero è il gestionale per negozi di abbigliamento che tiene insieme cassa, magazzino, clienti e incassi di uno o più punti vendita. Funziona dal browser (Chrome, Edge, Safari) su computer, tablet e telefono: non serve installare programmi, e sul telefono si può aggiungere alla schermata Home come un'app. Il gestionale si presenta con il logo e i colori del tuo negozio. Se la connessione cade, la cassa continua a vendere (vedi il capitolo 9).
+
+#### Cosa serve in negozio
+
+- Un computer o un tablet con un browser aggiornato.
+
+- Un lettore di codici a barre (la «pistola»): legge le etichette degli articoli, gli scontrini, le gift card e i buoni. Senza lettore si può scrivere il codice o cercare l'articolo per nome.
+
+- Una stampante per scontrini (facoltativa) per lo scontrino di cortesia, lo scontrino regalo, i buoni e le ricevute.
+
+#### Il menu
+
+Il menu laterale è diviso in gruppi: Vendite, Catalogo, Magazzino, Clienti, Analisi, Amministrazione e Supporto. Ognuno vede solo le voci adatte al proprio ruolo (vedi il capitolo 20). Anche dentro il gestionale, alla voce Supporto › Manuale, trovi una guida rapida filtrata per il tuo ruolo, con la ricerca per argomento.
+
+Fare una vendita
+Fare un reso o un cambio
+Vendere una gift card
+Mettere da parte la merce
+Chiudere la giornata
+Caricare un articolo
+
+### 2. Primo accesso e negozi
+#### Entrare nel gestionale
+
+- Apri l'indirizzo del gestionale che ti è stato consegnato e inserisci email e password.
+
+- Se hai dimenticato la password premi «Password dimenticata?»: ricevi per email un link per sceglierne una nuova.
+
+- Dopo l'accesso si apre la Dashboard. Ai primi accessi il tour guidato mostra le funzioni principali per il tuo ruolo.
+
+Le password devono avere almeno 8 caratteri, con almeno una lettera maiuscola, un numero e un carattere speciale (per esempio !, #, @).
+
+#### Il primo negozio
+
+Al primissimo accesso, se l'azienda non ha ancora un punto vendita, la procedura di primo avvio chiede di crearlo:
+
+- Scrivi un codice breve del negozio (per esempio le iniziali della città) e il nome del negozio.
+
+- Aggiungi, se vuoi, città, indirizzo e telefono.
+
+- Scegli subito i marchi e le categorie che vendi (si possono aggiungere anche dopo) e conferma.
+
+Altri punti vendita si aggiungono in Impostazioni › Negozi. Di solito la configurazione iniziale la facciamo insieme a te durante la partenza assistita.
+
+#### Il selettore del negozio
+
+In alto c'è il selettore del negozio: vendite, resi, chiusura, giacenze e report si riferiscono sempre al negozio scelto lì. Chi lavora in un solo negozio vede solo quello.
+
+- Commesse e responsabili vedono e lavorano solo sui negozi a cui sono assegnati: le vendite di un altro negozio non sono mai visibili.
+
+- Giacenze degli altri negozi: si possono consultare in sola lettura, per dire al cliente se un articolo è disponibile nell'altra sede.
+
+- Gift card: valgono in tutti i negozi.
+
+- Cambi e resi: un articolo comprato in un negozio si può rendere o cambiare in un altro.
+
+- Il titolare vede sempre tutti i negozi.
+
+### 3. Dashboard
+La Dashboard è la pagina iniziale e riassume la situazione del negozio selezionato:
+
+- Numeri principali: totale prodotti, valore del magazzino, articoli sotto scorta.
+
+- Sotto scorta: gli articoli che hanno raggiunto la quantità minima e vanno riordinati.
+
+- Movimenti recenti: gli ultimi carichi e scarichi.
+
+- Trasferimenti in attesa: le richieste tra negozi che aspettano un'azione.
+
+### 4. Prodotti e varianti
+Il catalogo si trova in Catalogo › Prodotti. Ogni prodotto ha nome, marchio, categoria, genere, fascia d'età, stagione, prezzo di vendita, prezzo d'acquisto (facoltativo, ma serve per i margini), aliquota IVA (Imposta sul Valore Aggiunto: 0%, 4%, 5%, 10% o 22%) e, se vuoi, una foto per riconoscerlo a colpo d'occhio.
+
+#### Creare un prodotto con taglie e colori
+
+- Apri Catalogo › Prodotti e premi «Nuovo prodotto».
+
+- Compila i dati principali: SKU (Stock Keeping Unit, il codice dell'articolo: puoi leggere con la pistola il codice a barre dell'etichetta direttamente in questo campo), nome, marchio, categoria, prezzo e aliquota IVA.
+
+- Nel riquadro «Varianti (Taglia + Colore)» premi «Aggiungi» per ogni combinazione: per esempio «Tg. M – Nero», «Tg. L – Nero».
+
+- Per ogni variante puoi indicare la quantità iniziale e la scorta minima sotto la quale l'articolo viene segnalato.
+
+- Salva. Ogni variante ha la sua giacenza in ogni negozio.
+
+#### Codici a barre
+
+In cassa e nei movimenti basta leggere con la pistola il codice a barre dell'etichetta: il gestionale riconosce sia lo SKU del prodotto sia il codice della singola variante (taglia e colore). I codici delle varianti si caricano con l'import da file CSV (colonna «Barcode») oppure con l'aggiunta rapida dalla cassa. Nella scheda prodotto trovi la giacenza per negozio e lo storico dei movimenti. Le etichette nuove si stampano al ricevimento della merce (vedi il capitolo 5).
+
+#### Aggiunta rapida dalla cassa
+
+Se in cassa leggi un codice a barre che non è ancora in catalogo, il pulsante «+» apre l'Aggiunta rapida prodotto: crei l'articolo (marchio, categoria, taglia, colore e prezzo) e lo aggiungi al carrello senza uscire dalla vendita.
+
+#### Importare il catalogo da file CSV
+
+Per caricare molti articoli insieme si usa un file CSV (Comma-Separated Values: un file di testo a colonne che si apre e si salva con Excel). Funzione riservata a titolare e responsabile.
+
+- Apri Catalogo › Import Prodotti e scarica il modello.
+
+- Compilalo con Excel, una riga per ogni variante: SKU, nome, marchio, categoria, fascia d'età, genere, stagione, prezzo d'acquisto e di vendita, taglia, colore, codice a barre e quantità. Il separatore delle colonne è il punto e virgola (;).
+
+- Carica il file: compare un'anteprima con le colonne riconosciute e gli eventuali errori riga per riga.
+
+- Conferma. Marchi e categorie che non esistono ancora vengono creati da soli; le righe con errori vengono saltate e riepilogate.
+
+### 5. Magazzino, inventario e ordini
+#### Giacenze e sotto scorta
+
+In Magazzino › Inventario vedi la giacenza di ogni prodotto e variante nel negozio selezionato. Gli articoli sotto la soglia minima sono evidenziati in rosso.
+
+- «Min Stock»: imposta la scorta minima di un articolo.
+
+- «Correzione»: corregge la giacenza di un singolo articolo. Ogni correzione chiede una motivazione e resta registrata nei movimenti.
+
+Scorta minima e correzioni sono riservate a titolare e responsabile.
+
+#### Inventario fisico con il lettore
+
+Serve a contare davvero i capi presenti in negozio, per esempio per l'inventario di fine anno, e a correggere le giacenze con le differenze trovate.
+
+- Il titolare o il responsabile aprono Magazzino › Inventario fisico e premono «Nuovo inventario». Un negozio può avere un solo inventario aperto alla volta.
+
+- Scegli il tipo: completo (tutto il negozio, oppure solo un marchio o una categoria: i capi del perimetro non trovati vengono messi a zero) o parziale (si correggono soltanto i capi contati).
+
+- Leggi l'etichetta di ogni capo con il lettore: ogni lettura aggiunge un pezzo, con un segnale sonoro acuto se va bene e grave se il codice non è valido. Si può contare in più persone, da più dispositivi, sullo stesso inventario: anche le commesse possono contare.
+
+- Hai letto un capo di troppo? Scegli «Togli (errore)» e rileggilo, oppure correggi la quantità nell'elenco dei contati.
+
+- Controlla la scheda «Differenze» (pezzi in più e in meno rispetto alla giacenza) e, negli inventari completi, «Non ancora contati». Le differenze si scaricano anche in CSV.
+
+- Premi «Applica alle giacenze»: ogni differenza resta registrata nei movimenti come correzione, con il codice dell'inventario.
+
+Attenzione: «Applica alle giacenze» non si può annullare. Prima di applicare puoi invece annullare l'inventario senza toccare le giacenze. Il codice dell'articolo vale solo se l'articolo ha una sola taglia: altrimenti leggi l'etichetta della taglia. Conviene contare a negozio chiuso.
+
+#### Fornitori e ordini
+
+- In Magazzino › Fornitori titolare o responsabile registrano le aziende da cui comprano la merce: nome, referente, email per gli ordini, telefono, partita IVA.
+
+- In Magazzino › Ordini fornitori si crea un ordine per il negozio scelto: si sceglie il fornitore e si aggiungono i capi cercandoli per nome, codice o codice a barre.
+
+- Per ogni articolo compare una griglia colori per taglie: scrivi quanti pezzi ordinare in ogni casella. Sotto ogni casella vedi quanti ne hai in negozio e la scorta minima; puoi indicare il prezzo d'acquisto (IVA esclusa).
+
+- «Suggerisci riordino» aggiunge da solo i capi del negozio sotto la scorta minima, per la quantità che manca.
+
+- Scarica l'ordine in CSV per mandarlo al fornitore e premi «Segna come inviato».
+
+- Quando arriva la merce, anche una commessa può aprire l'ordine e premere «Registra il ricevimento»: le quantità proposte sono quelle ancora da ricevere e si possono correggere se manca qualcosa; il resto si riceve dopo.
+
+Il ricevimento carica il magazzino del negozio e, se lasci la spunta, scrive il prezzo dell'ordine come prezzo d'acquisto dell'articolo: così i margini si compilano da soli. Subito dopo puoi stampare le etichette con codice a barre e prezzo dei capi arrivati, una per ogni taglia e colore. Un ordine in bozza o inviato, se non è ancora arrivato niente, si può annullare.
+
+#### Carico e scarico manuale
+
+- Apri Magazzino › Movimenti e premi «Carico/Scarico».
+
+- Seleziona il tipo CARICO (merce in entrata) oppure SCARICO (merce in uscita).
+
+- Leggi con la pistola i codici degli articoli e indica le quantità: puoi registrare più articoli in una volta sola.
+
+- Conferma: la giacenza del negozio si aggiorna subito.
+
+#### Storico movimenti
+
+Ogni variazione di giacenza diventa un movimento: carico, scarico, vendita, reso, correzione, trasferimento. Per ciascuno restano data, utente, prodotto, variante, quantità e note. Lo storico si filtra per data, tipo, prodotto e utente.
+
+### 6. Trasferimenti tra negozi
+Con più punti vendita la merce si sposta da un negozio all'altro con un percorso controllato, in Magazzino › Trasferimenti (titolare e responsabile).
+
+- Premi «Nuovo» e scegli negozio di origine e di destinazione.
+
+- Aggiungi articoli e quantità. Puoi salvarlo come bozza e modificarlo, poi inviare la richiesta.
+
+- Il negozio di origine spedisce: solo in quel momento la merce esce dalla sua giacenza.
+
+- Il negozio di destinazione riceve: la merce entra nella sua giacenza. Se arriva meno merce (per esempio un capo danneggiato) si conferma una ricezione parziale con le quantità reali.
+
+StatoSignificatoEffetto sulla giacenza
+
+| Bozza | In preparazione, modificabile | Nessuno
+
+| Richiesto | Inviato al negozio di origine | Nessuno
+
+| In transito | Merce spedita | Esce dal negozio di origine
+
+| Ricevuto o parzialmente ricevuto | Merce arrivata | Entra nel negozio di destinazione
+
+Un trasferimento si può anche annullare o rifiutare indicando il motivo.
+
+### 7. Cassa: nuova vendita
+La cassa si apre da Vendite › Vendite con il pulsante «Nuova vendita». Controlla sempre in alto che sia selezionato il negozio giusto.
+
+#### Fare una vendita passo per passo
+
+- Aggiungi gli articoli: leggi il codice a barre con la pistola nel campo Barcode. Se ci sono più taglie o colori si apre la scelta della variante. Leggendo due volte lo stesso codice la quantità aumenta.
+
+- Articoli senza etichetta: usa «Cerca articolo per nome» e scrivi almeno 2 lettere di nome, marchio, colore o taglia (anche più parole insieme, per esempio «camicia blu M»). Compaiono solo gli articoli disponibili nel negozio, con prezzo, eventuale saldo e pezzi disponibili.
+
+- Scegli la commessa che ha seguito la vendita, se il negozio le usa (vedi il capitolo 20).
+
+- Collega il cliente (facoltativo): cercalo per nome e cognome, telefono o tessera. Se non c'è, scrivi nome e cognome e premi «+ Nuovo cliente»: viene creato e collegato alla vendita.
+
+- Sconti: puoi applicare uno sconto in percentuale o in euro sul singolo articolo o sull'intero scontrino, entro i limiti della politica sconti.
+
+- Gift card, buono reso, buono sconto, premio fedeltà: se il cliente ne ha uno, inseriscilo o leggilo con la pistola nel riquadro corrispondente; l'importo viene scalato dal totale.
+
+- Scegli il pagamento: contanti, carta o misto (vedi sotto).
+
+- Premi «Registra vendita»: la giacenza viene scalata e si apre la scheda della vendita, da cui stampi lo scontrino.
+
+#### Pagamenti
+
+- Contanti: nel campo facoltativo «Ricevuto» scrivi la banconota ricevuta e il gestionale mostra il resto da dare.
+
+- Carta: il totale viene registrato come pagamento elettronico.
+
+- Misto: scrivi quanto paga il cliente in contanti e la parte con carta si calcola da sola (o viceversa). La ripartizione finisce nello scontrino e nella chiusura giornata.
+
+- Gift card, buono reso e buoni sconto si combinano con il pagamento del residuo.
+
+IVA inclusa. I prezzi esposti sono IVA inclusa: lo scontrino calcola imponibile e imposta per ogni aliquota con il metodo dello scorporo.
+
+#### Elenco vendite
+
+In Vendite › Vendite filtri per periodo (dal/al) e cerchi per codice. Se leggi con la pistola il codice a barre di uno scontrino nel campo di ricerca, si apre direttamente quella vendita.
+
+### 8. Scontrino e scontrino regalo
+#### Scontrino di cortesia
+
+Dopo la registrazione si apre la scheda della vendita: premi «Stampa scontrino». Se il titolare ha attivato la stampa automatica, lo scontrino parte da solo. Lo scontrino stampato dal gestionale è un documento di cortesia, non fiscale: il collegamento alla stampante fiscale è descritto nel capitolo 23.
+
+#### Scontrino regalo
+
+È uno scontrino senza prezzi, totali, sconti, pagamento né dati del cliente, da mettere nel pacco. Si stampa anche senza connessione.
+
+- Prima di registrare la vendita spunta «Stampa anche scontrino regalo», oppure dopo, dalla scheda della vendita, premi «Scontrino regalo».
+
+- Togli la spunta agli articoli che non sono un regalo.
+
+- Premi «Stampa scontrino regalo»: escono gli articoli (marca, nome, taglia, colore, quantità), la frase con i giorni per cambi e resi e il codice a barre della vendita.
+
+Quando torna chi ha ricevuto il regalo, basta leggere il codice dello scontrino regalo in cassa per avviare il cambio o il reso (vedi il capitolo 10). I giorni validi e un testo facoltativo si impostano in Impostazioni › Scontrino regalo (30 giorni se non indicato).
+
+### 9. Vendere senza connessione
+Se internet manca (anche con il Wi-Fi acceso ma senza rete), la cassa continua a vendere:
+
+- le vendite vengono messe in coda sul dispositivo e inviate da sole appena la rete torna (il gestionale riprova ogni minuto);
+
+- un indicatore in alto mostra quante vendite sono in attesa;
+
+- una vendita non viene mai registrata due volte, anche se la connessione cade a metà;
+
+- la vendita mantiene l'ora reale: una vendita della sera inviata il mattino dopo finisce nella chiusura del giorno giusto, con la nota «Registrata senza connessione»;
+
+- la ricerca per nome funziona sul catalogo salvato nel dispositivo, aggiornato a ogni accesso e a ogni cambio di negozio; le giacenze sono quelle dell'ultimo aggiornamento.
+
+Il reso richiede la connessione. Se la chiusura di un giorno era già stata inviata prima che arrivassero vendite in coda, un avviso ricorda di rimandarla. Per approfondire leggi la guida Cassa senza internet.
+
+### 10. Resi, cambi e buono reso
+#### Reso al banco
+
+- Apri Vendite › Resi e premi «Nuovo reso».
+
+- Leggi con la pistola il codice a barre dello scontrino (anche dello scontrino regalo) oppure cerca la vendita per numero o data: si apre con gli articoli ancora restituibili.
+
+- Scegli gli articoli e le quantità da rendere (reso totale o parziale) e il motivo.
+
+- Conferma: la merce rientra nella giacenza del negozio e il reso finisce nello storico movimenti.
+
+- Se rimborsi con un buono reso, dalla scheda del reso premi «Stampa buono reso» e consegnalo al cliente.
+
+#### Cambio in cassa
+
+Per un cambio merce si lavora direttamente nella nuova vendita: leggi il codice dello scontrino (o dello scontrino regalo) nel campo Barcode, spunta gli articoli da rendere e premi «Aggiungi al reso»; poi aggiungi i nuovi articoli. La differenza viene calcolata nello stesso scontrino e il reso non genera un buono spendibile, perché è già compensato.
+
+#### Cambio leggendo il cartellino
+
+Se il cliente non ha lo scontrino, in modalità vendita leggi il cartellino del capo che riporta. Se quel capo in questo negozio non è disponibile ma risulta venduto in uno qualsiasi dei negozi, la cassa chiede «È un cambio o un reso?» indicando dove e quando è stato venduto. Con «Sì, mettilo nel reso» il capo entra nel reso in cassa e rientra in questo negozio; poi leggi l'articolo nuovo.
+
+#### Il buono reso
+
+- Il valore del reso può diventare un buono a scalare: il cliente lo spende in uno o più acquisti fino a esaurire il saldo.
+
+- In cassa, nel riquadro «Credito reso», leggi il codice del buono, premi «Verifica» e poi «Usa tutto il reso» oppure scrivi l'importo (anche con la virgola, per esempio 25,50).
+
+- Il buono scade dopo 15 giorni (fino a fine giornata); il titolare può cambiare i giorni in Impostazioni › Buono reso e merce da parte.
+
+- Nella scheda del reso trovi saldo residuo e utilizzi.
+
+#### Resi tra negozi
+
+Un articolo comprato in un altro negozio si può rendere o cambiare qui: compare l'avviso «Vendita effettuata a …», vedi solo articoli, quantità e prezzi pagati (nessun dato del cliente o del pagamento) e il reso si registra nel negozio corrente, dove rientra la merce.
+
+Punti e buoni. Se la vendita aveva dato punti fedeltà, questi vengono tolti in proporzione. Se l'articolo era stato pagato in parte con un buono sconto, il reso vale quanto pagato davvero.
+
+### 11. Merce da parte con acconto
+Il cliente lascia un acconto e ritira la merce entro un certo periodo: nel frattempo nessuno può venderla.
+
+- In cassa aggiungi gli articoli al carrello, seleziona il cliente (e la commessa) e premi «Metti da parte con acconto».
+
+- Indica l'acconto (almeno l'acconto minimo impostato dal titolare, oppure il valore della merce se è più basso) e come paga il cliente.
+
+- La merce esce subito dalla disponibilità e viene stampata una ricevuta con il codice PRE… e il codice a barre da consegnare al cliente.
+
+- Altri acconti si registrano dalla scheda con «Nuovo acconto», senza superare il saldo.
+
+- Al ritiro apri Vendite › Merce da parte (oppure leggi il codice della ricevuta) e premi «Ritira e incassa il saldo»: diventa una vendita normale, con scontrino e punti fedeltà, e si paga solo il saldo.
+
+Dopo 15 giorni la merce risulta «Scaduta» ma non si annulla da sola: puoi prorogarla, farla ritirare oppure annullarla. Annullando, la merce torna disponibile e scegli cosa fare dell'acconto: trasformarlo in un buono del cliente, restituirlo in contanti o su carta, oppure trattenerlo. Giorni e acconto minimo si cambiano in Impostazioni › Buono reso e merce da parte.
+
+Nella chiusura. Gli acconti sono incassi del giorno in cui vengono versati e compaiono nella chiusura giornata; al ritiro non vengono contati una seconda volta.
+
+### 12. Gift card
+Le gift card sono buoni regalo con un valore precaricato, spendibili in più acquisti e in tutti i negozi.
+
+#### Vendere una gift card al banco
+
+- In cassa premi «Vendi gift card» (in alto a destra) oppure apri Vendite › Gift Card.
+
+- Scegli l'importo e indica come ha pagato il cliente (contanti o carta, obbligatorio). Se vuoi aggiungi destinatario, chi la regala e una dedica.
+
+- Incassa l'importo e conferma: si apre il PDF della gift card con il codice a barre, da stampare e consegnare.
+
+Non aggiungerla al carrello. La gift card non va aggiunta al carrello come un articolo. È un buono multiuso: l'IVA si applica quando il cliente la usa per comprare merce.
+
+#### Ricarica, saldo e utilizzo
+
+- Ricarica: cerca la card nella lista, premi «Ricarica», indica importo e metodo di pagamento.
+
+- Verifica saldo: in cima alla pagina Gift Card, scrivi o leggi il codice.
+
+- Pagare con la gift card: in cassa leggi il codice nel riquadro Gift Card; il saldo residuo si aggiorna da solo.
+
+- La commessa vende e ricarica card entro gli importi standard, valide 12 mesi. Importi più alti, scadenze diverse e la disattivazione di una card smarrita sono riservati al titolare o al responsabile.
+
+#### Gift card online
+
+Le gift card si possono vendere anche dal sito web del negozio, con pagamento con carta online: il destinatario riceve per email un PDF con i colori e il logo del negozio. Nell'elenco del gestionale compaiono con origine «Sito». Approfondisci nella guida Gift card e buoni.
+
+#### Registro gift card
+
+In Vendite › Registro gift card il titolare trova insieme le card vendute in negozio, quelle vendute dal sito e il loro utilizzo in cassa, con il saldo ancora da spendere. Scegli negozio e periodo e scarica il PDF da dare al commercialista.
+
+### 13. Buoni sconto
+I buoni sconto sono un regalo al cliente da usare in un acquisto successivo: in euro (un credito che si scala anche in più acquisti) oppure in percentuale (valido per un solo acquisto). Il modulo si attiva e si regola in Impostazioni › Buoni sconto.
+
+- Emissione automatica: se attiva, a fine vendita il cliente riceve il buono della soglia di spesa più alta raggiunta. Un riquadro in cassa avvisa prima di registrare.
+
+- Emissione a mano: dalla scheda vendita («Emetti buono sconto») o dalla pagina Vendite › Buoni sconto, solo per i ruoli autorizzati ed entro il valore massimo deciso dal titolare.
+
+- Consegna: si stampa un biglietto da 80 mm con codice a barre, oppure parte per email ai clienti che hanno dato il consenso privacy.
+
+#### Usare un buono in cassa
+
+- Leggi il codice del buono (BS-…) nel campo Barcode, oppure scrivilo nel riquadro «Buono sconto» e premi «Verifica».
+
+- Il gestionale controlla scadenza, spesa minima, cliente intestatario e con cosa si può usare insieme.
+
+- Lo sconto compare nel totale e sullo scontrino come riga «BUONO SCONTO».
+
+Se la vendita che ha generato un buono viene resa, il buono non ancora usato si annulla (se previsto nelle impostazioni). Titolare e responsabile possono annullarlo anche a mano, indicando il motivo. La pagina Buoni sconto contiene il registro completo, con filtri ed esportazione per Excel.
+
+### 14. Saldi e politica sconti
+#### Mettere in saldo più articoli insieme
+
+- Apri Catalogo › Saldi/Sconti (titolare e responsabile).
+
+- Filtra per marchio o categoria, oppure scegli i singoli prodotti.
+
+- Imposta la percentuale di sconto e, se è una promozione a tempo, le date di inizio e fine.
+
+- Conferma: in cassa il prezzo scontato compare accanto al prezzo originale.
+
+Ogni saldo si può sospendere o togliere in qualsiasi momento per tornare al prezzo pieno.
+
+#### Politica sconti
+
+In Impostazioni › Politica Sconti il titolare decide:
+
+- lo sconto massimo che si può applicare a mano in cassa;
+
+- se è permesso un secondo sconto su un articolo già in saldo.
+
+La cassa applica queste regole a tutti e avvisa la commessa quando uno sconto non è ammesso.
+
+### 15. Clienti e consenso privacy
+#### Anagrafica
+
+- In Clienti › Clienti crei un cliente con nome, cognome, telefono, email e data di nascita. Obbligatori solo nome e cognome.
+
+- Se esiste già un cliente con lo stesso nome compare un avviso: aggiungi telefono o una nota per distinguerli. L'email, se c'è, deve essere unica.
+
+- Ogni cliente riceve una tessera fedeltà con un codice univoco.
+
+- Nella scheda cliente trovi lo storico degli acquisti, i punti accumulati e i premi riscattati.
+
+- La ricerca trova i clienti per nome e cognome (anche insieme, per esempio «Anna Rossi»), telefono, note o codice tessera.
+
+#### Consenso privacy dato dal cliente
+
+Il consenso al trattamento dei dati personali, come richiede il GDPR (General Data Protection Regulation, il Regolamento europeo sulla protezione dei dati), lo dà il cliente in prima persona, dal proprio telefono: la commessa non può spuntarlo al suo posto.
+
+- Per un cliente già in anagrafica premi «QR consenso» (nella scheda cliente, nella scheda vendita o in cassa).
+
+- Il cliente inquadra il codice QR con la fotocamera del telefono.
+
+- Legge l'informativa e conferma: il consenso viene registrato con la data.
+
+I nuovi clienti possono iscriversi da soli, inquadrando il QR della locandina «Iscriviti alla Carta Fedeltà» (vedi il capitolo 17): compilano il modulo, accettano l'informativa e ricevono subito il codice della tessera. Approfondisci nella guida Fidelity card con QR.
+
+### 16. Programma fedeltà a punti
+Il programma si configura in Clienti › Fedeltà (solo titolare):
+
+- Imposta quanti punti per ogni euro speso.
+
+- Imposta la soglia premio: i punti necessari per ottenere un premio.
+
+- Scegli il tipo di premio (sconto in percentuale, sconto fisso o buono) e il suo valore.
+
+- Scegli il prefisso del codice tessera e attiva il programma.
+
+- I punti si accumulano da soli a ogni vendita collegata al cliente.
+
+- In cassa, con il cliente selezionato, il gestionale propone il premio quando la soglia è raggiunta.
+
+- In caso di reso i punti vengono tolti in proporzione.
+
+- Il cliente può vedere la sua tessera digitale con i punti dal telefono.
+
+- La pagina Fedeltà mostra anche i compleanni della settimana.
+
+### 17. Materiale da stampare
+In Clienti › Materiale da stampare si stampano tre locandine A4 con codice QR da appendere in negozio o tenere sul bancone:
+
+- «Lasciaci una recensione»: porta alla scheda Google del negozio;
+
+- «Regala una Gift Card»: porta all'acquisto della gift card sul sito;
+
+- «Iscriviti alla Carta Fedeltà»: porta al modulo di iscrizione.
+
+- Scegli il negozio (ogni punto vendita ha la sua scheda Google).
+
+- Scegli lo stile: Scuro (elegante, ideale per la tipografia) o Chiaro (consuma meno inchiostro).
+
+- Prova il QR inquadrandolo dallo schermo e stampa.
+
+Il link delle recensioni si incolla, per ogni negozio, in Impostazioni › Recensioni Google: finché manca, la stampa di quella locandina resta disattivata.
+
+### 18. Chiusura giornata
+- A fine giornata apri Vendite › Chiusura giornata: vedi subito il riepilogo del negozio selezionato.
+
+- Controlla vendite, pezzi, incassi per metodo di pagamento (contanti e carta, con la ripartizione dei pagamenti misti), resi e netto di cassa.
+
+- Premi «Invia via email»: il report in PDF arriva al titolare, con allegato il file del venduto da aprire con Excel.
+
+- Se serve, «Scarica PDF» salva il report A4 e «Stampa» lo manda alla stampante.
+
+#### Cosa contiene il report
+
+- Riepilogo, elenco delle vendite (con ora e cliente), elenco dei resi e totali per commessa.
+
+- Articoli venduti nel giorno (articolo, marca, taglia, colore, pezzi, totale), con riepilogo per categoria e per marca. Il file del venduto si scarica anche dal pulsante «Venduto (Excel)».
+
+- Gift card vendute o ricaricate e acconti della merce da parte, sommati al netto di cassa.
+
+- Buono reso usato, buoni sconto usati ed emessi nel giorno.
+
+Con «Ieri» o con il calendario rivedi una giornata precedente. La giornata va dalla mezzanotte alla mezzanotte, ora italiana.
+
+Invio automatico. In Impostazioni › Chiusura giornata il titolare sceglie i destinatari (anche in copia) e può far partire la chiusura di ogni negozio da sola, ogni giorno all'orario scelto, anche solo nei giorni con movimenti.
+
+Netto di cassa = totale incassato (contanti, carta, misto) meno i resi al banco. I resi fatti in cassa durante un cambio sono già compensati nello scontrino e non vengono sottratti due volte.
+
+### 19. Report e analisi
+#### Vendite e resi di un periodo
+
+- In Vendite › Vendite (o Vendite › Resi) imposta le date dal/al.
+
+- Il titolare preme «Scarica PDF»: ottiene un report A4 con esattamente le vendite (o i resi) filtrati, tutte le pagine comprese.
+
+- Oppure «Invia all'amministratore»: lo stesso PDF parte per email ai destinatari della chiusura, dopo una conferma che mostra a chi e per quale periodo.
+
+Il report delle vendite riporta pezzi, sconti, incassi per metodo di pagamento, gift card e buono reso usati, IVA, il riepilogo per giorno e per commessa e l'elenco delle vendite. Quello dei resi riporta resi al banco e in cassa, riepilogo per motivo e saldo residuo dei buoni.
+
+#### Report di magazzino
+
+In Analisi › Report (titolare):
+
+- Report stock: giacenze per prodotto, marchio e categoria, con il valore;
+
+- Report movimenti: movimenti per periodo, tipo e negozio;
+
+- Report commesse: vendite attribuite a ciascuna commessa.
+
+Ogni report si esporta in file CSV da aprire con Excel, utile per i riordini, per l'inventario e per il commercialista.
+
+#### Margini e invenduto
+
+In Analisi › Margini e invenduto (titolare) vedi quanto guadagni su quello che vendi e quali capi sono fermi da troppo tempo.
+
+- Il venduto è IVA esclusa e al netto di sconti, buoni sconto e resi del periodo scelto. Il margine è la differenza con il prezzo d'acquisto (IVA esclusa) scritto nell'articolo, diviso per marchio, categoria o stagione.
+
+- Il margine si calcola solo sugli articoli che hanno il prezzo d'acquisto: la colonna «Con costo» dice quanta parte del venduto è coperta.
+
+- «Prezzi d'acquisto mancanti» elenca gli articoli in giacenza senza costo, dai più importanti per valore: scrivi il prezzo e premi Invio.
+
+- «Capi fermi» mostra gli articoli con giacenza che non si vendono da più dei giorni scelti (30, 60, 90…), con il valore immobilizzato e l'ultima vendita. Le novità appena inserite non compaiono.
+
+#### Analisi per dipendente e per negozio
+
+Riservate al titolare, in Analisi:
+
+- Performance dipendenti: classifica per ricavo netto con numero di vendite, importo, scontrino medio, articoli venduti, resi e suddivisione per metodo di pagamento.
+
+- Performance negozi: confronto tra punti vendita (vendite, scontrino medio, articoli, valore del magazzino, resi, ricavo netto) con la variazione rispetto al periodo precedente e i migliori dipendenti di ogni negozio.
+
+Entrambe si filtrano per negozio e per periodo.
+
+#### Registro attività
+
+In Amministrazione › Registro Attività il titolare vede chi ha fatto cosa e quando (vendite, movimenti, modifiche…), con filtri per data, utente e tipo di azione. Le voci del registro non si possono modificare né cancellare.
+
+### 20. Utenti, commesse e ruoli
+#### Creare un utente
+
+- Apri Amministrazione › Utenti e premi «Nuovo utente».
+
+- Inserisci nome, cognome, email e password.
+
+- Scegli il ruolo (vedi la tabella) e assegna almeno un negozio: un utente senza negozi non vede alcun dato.
+
+Il titolare può reimpostare la password di qualsiasi utente. Un utente che non lavora più si disattiva invece di eliminarlo, così resta lo storico delle sue operazioni. Per inserire tutto il personale in una volta c'è Amministrazione › Import Utenti, con un file CSV (colonne email, nome, cognome, ruolo, negozi), anteprima degli errori e password generate in automatico.
+
+#### Commesse
+
+Le commesse (in Amministrazione › Commesse) servono ad attribuire ogni vendita alla persona che l'ha seguita, anche se la cassa usa un unico accesso. Se un negozio ha commesse configurate, in cassa la scelta della commessa è obbligatoria. I totali per commessa compaiono nella chiusura giornata e nei report.
+
+#### Ruoli e permessi
+
+Nel gestionale i tre ruoli si chiamano Amministratore (il titolare), Responsabile e Dipendente (la commessa).
+
+FunzioneTitolareResp.Commessa
+
+| Cassa, resi, merce da parte, chiusura giornata | Sì | Sì | Sì
+
+| Gift card (vendita e ricarica), buoni sconto in cassa | Sì | Sì | Sì
+
+| Clienti, materiale da stampare, carico e scarico merce | Sì | Sì | Sì
+
+| Conta dell'inventario fisico, ricevimento degli ordini | Sì | Sì | Sì
+
+| Creare e modificare prodotti, import da CSV, fornitori | Sì | Sì | No
+
+| Saldi, correzioni di giacenza, scorta minima, aprire un inventario | Sì | Sì | No
+
+| Trasferimenti tra negozi | Sì | Sì | No
+
+| Report, margini e invenduto, registro gift card, analisi dipendenti e negozi | Sì | No | No
+
+| Programma fedeltà, utenti, commesse, registro attività, impostazioni, export dei dati | Sì | No | No
+
+Responsabili e commesse lavorano solo sui negozi assegnati; il titolare vede tutti i negozi.
+
+### 21. Impostazioni
+La pagina Supporto › Impostazioni è riservata al titolare. Le sezioni principali:
+
+SezioneA cosa serve
+
+| Dati azienda | Nome, logo, indirizzo e contatti, usati su documenti, email e gift card.
+
+| Negozi | Aggiungere, modificare o disattivare i punti vendita.
+
+| Politica Sconti | Sconto massimo in cassa e doppio sconto sugli articoli in saldo.
+
+| Chiusura giornata | Destinatari del report, indirizzi in copia e invio automatico.
+
+| Recensioni Google | Link della scheda Google di ogni negozio per la locandina recensioni.
+
+| Scontrino regalo | Giorni validi per cambi e resi e testo in fondo allo scontrino.
+
+| Buono reso e merce da parte | Validità del buono reso, giorni della merce da parte e acconto minimo.
+
+| Buoni sconto | Attivazione, soglie di spesa, valore massimo, scadenze e combinazioni ammesse.
+
+| I tuoi dati | Export completo di tutti i dati (vedi il capitolo 22).
+
+### 22. I tuoi dati e sicurezza
+#### Scaricare tutti i dati
+
+I dati restano del negozio e si possono portare via in qualsiasi momento.
+
+- Apri Impostazioni › I tuoi dati.
+
+- Premi «Scarica tutti i dati (ZIP)».
+
+- Ottieni un unico file ZIP (archivio compresso) con un file CSV per ogni tipo di dato: prodotti, giacenze, vendite, resi, clienti, gift card, buoni, movimenti e registro attività, apribili con Excel. Password e chiavi di accesso non sono mai incluse.
+
+#### Sicurezza
+
+- Connessione cifrata tra il negozio e il gestionale.
+
+- Password protette: conservate solo in forma cifrata e mai esportate; regole minime di robustezza per tutti.
+
+- Ruoli e negozi assegnati: ognuno vede e fa solo ciò che gli compete.
+
+- Dati separati per ogni azienda.
+
+- Registro attività non modificabile.
+
+- Copia di sicurezza automatica ogni notte, verificata e conservata per 30 giorni, più una copia mensile conservata per un anno.
+
+### 23. In arrivo
+#### Collegamento alla stampante fiscale In arrivo
+
+Il collegamento diretto tra la cassa e la stampante fiscale (il registratore telematico che invia i corrispettivi all'Agenzia delle Entrate), con emissione dello scontrino fiscale e del documento di reso dal gestionale, è in arrivo e non è ancora disponibile. Nel frattempo lo scontrino fiscale si emette con il proprio registratore e il gestionale stampa lo scontrino di cortesia.
+
+### 24. Assistenza e domande frequenti
+#### Chiedere aiuto
+
+L'assistenza risponde via email entro un giorno lavorativo, all'indirizzo info@emcdigitalsolutions.it. Per informazioni puoi anche scriverci su WhatsApp. Dentro il gestionale puoi aprire una richiesta:
+
+- Apri Supporto › Assistenza (disponibile per tutti) e premi «Nuovo ticket».
+
+- Scegli la categoria: Malfunzionamento, Nuova funzionalità, Domanda o Urgente.
+
+- Descrivi il problema con i passaggi per ripeterlo e invia.
+
+- Segui lo stato (aperto o chiuso) e leggi le risposte direttamente nella scheda della richiesta.
+
+#### Domande frequenti
+
+##### Posso usare Sartonero dal tablet o dal telefono?
+
+Sì. L'interfaccia si adatta a computer, tablet e telefono e funziona da qualsiasi browser aggiornato; sul telefono si installa come un'app.
+
+##### Cosa succede se cade internet mentre vendo?
+
+La cassa continua a vendere e invia le vendite appena la rete torna, senza doppioni (vedi il capitolo 9).
+
+##### Le gift card scadono?
+
+Sì: la validità standard è di 12 mesi. Titolare e responsabile possono impostare scadenze diverse.
+
+##### Posso rendere in un negozio un articolo comprato nell'altro?
+
+Sì. Basta leggere il codice dello scontrino o il cartellino del capo: il reso si registra nel negozio dove ti trovi e la merce rientra lì.
+
+##### Come porto i miei dati al commercialista?
+
+Con il PDF delle vendite di un periodo, il registro gift card, il file del venduto della chiusura giornata o l'export completo in Impostazioni › I tuoi dati.
+
+##### Dove trovo una guida per il primo giorno?
+
+Ai primi accessi il tour guidato accompagna titolare e commesse nelle funzioni del loro ruolo, e dentro il gestionale c'è sempre la guida rapida in Supporto › Manuale. La partenza è assistita: configurazione e formazione del personale le facciamo noi.
