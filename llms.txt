@@ -32,7 +32,15 @@ Partenza assistita: configurazione del negozio, import del catalogo e formazione
 - [Inventario di fine anno](https://sartonero.it/inventario-fine-anno.html): guida pratica alla conta di fine anno.
 - [Video di presentazione](https://sartonero.it/video.html): Sartonero in 90 secondi, con i capitoli (cassa, offline, trasferimenti, gift card, margini, chiusura).
 - [Manuale d'uso](https://sartonero.it/manuale.html): 24 capitoli, dalla prima vendita alla chiusura della giornata.
+- [Diventa partner](https://sartonero.it/partner.html): programmi per rivenditori, agenti e segnalatori che vogliono vendere Sartonero ai negozi di abbigliamento.
 - [Testo completo per motori di ricerca e assistenti](https://sartonero.it/llms-full.txt)
+
+## Programma partner
+Sartonero cerca partner in tutta Italia per proporlo ai negozi di abbigliamento, con tre programmi:
+- Rivenditori: aziende con partita IVA (rivenditori di registratori di cassa, informatica, software gestionali, consulenti per il commercio) che aggiungono Sartonero alla loro offerta. Provvigioni ricorrenti su ogni negozio che portano, per tutto il tempo in cui resta cliente.
+- Agenti e venditori sul territorio: agenti di commercio e rappresentanti del settore moda e abbigliamento che visitano i negozi. Provvigioni ricorrenti su ogni negozio che portano, per tutto il tempo in cui resta cliente.
+- Segnalatori: chiunque conosca titolari di negozi di abbigliamento. Compenso per ogni negozio segnalato che diventa cliente.
+Ai partner: formazione, kit di vendita, demo da mostrare, account demo dedicato; configurazione, formazione del personale e assistenza ai negozi le segue EMC Digital Solutions. Condizioni economiche su richiesta, definite alla chiamata conoscitiva. Candidatura via email a info@emcdigitalsolutions.it con oggetto «Candidatura partner Sartonero». Dettagli: https://sartonero.it/partner.html
 
 ## Link
 - Demo con dati di esempio (accesso con un clic): https://demo.sartonero.it/login

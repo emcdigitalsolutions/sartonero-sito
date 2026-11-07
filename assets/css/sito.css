@@ -44,9 +44,10 @@ body::before{content:"";position:fixed;inset:0;pointer-events:none;z-index:60;op
 .marchio img{height:44px;width:auto}
 .marchio .scritta{height:22px;width:auto}
 .menu{display:flex;align-items:center;gap:28px}
-.menu a{color:var(--testo);text-decoration:none;font-size:.88rem;letter-spacing:.14em;text-transform:uppercase;font-weight:600;position:relative}
+.menu a{white-space:nowrap;color:var(--testo);text-decoration:none;font-size:.88rem;letter-spacing:.14em;text-transform:uppercase;font-weight:600;position:relative}
 .menu a:not(.bottone)::after{content:"";position:absolute;left:0;right:0;bottom:-6px;height:1px;background:var(--grad-oro);transform:scaleX(0);transform-origin:left;transition:transform .35s}
 .menu a:not(.bottone):hover{color:var(--avorio)}
+.menu a[aria-current=page]{color:var(--oro-chiaro)}
 .menu a:not(.bottone):hover::after{transform:scaleX(1)}
 .apri-menu{display:none;background:none;border:1px solid var(--linea-forte);border-radius:12px;width:46px;height:46px;color:var(--avorio);cursor:pointer}
 .apri-menu span{display:block;width:20px;height:1.5px;background:currentColor;margin:5px auto;transition:transform .3s,opacity .3s}
@@ -207,6 +208,7 @@ body::before{content:"";position:fixed;inset:0;pointer-events:none;z-index:60;op
 .piede ul{list-style:none;margin:0;padding:0;display:grid;gap:8px}
 .piede a{color:var(--testo);text-decoration:none}
 .piede a:hover{color:var(--oro-chiaro)}
+.fondo a{text-decoration:underline;text-decoration-color:var(--linea-forte)}
 .fondo{grid-column:1/-1;border-top:1px solid var(--linea);padding-top:24px;display:flex;flex-wrap:wrap;justify-content:space-between;gap:12px;font-size:.85rem}
 
 /* pagine interne */
@@ -305,6 +307,97 @@ ol.passi-manuale>li::before{content:counter(pm);position:absolute;left:14px;top:
 .scorciatoie a{padding:12px 14px;border:1px solid var(--linea);border-radius:12px;text-decoration:none;color:var(--avorio);background:rgba(26,18,11,.6);font-size:.94rem}
 .scorciatoie a:hover{border-color:var(--linea-forte);color:var(--oro-chiaro)}
 
+/* ---------- pagina partner ---------- */
+.eroe-partner .indice{margin-bottom:22px}
+.appendiabiti{position:relative;width:100%;max-width:560px;margin-inline:auto;padding:24px 0 10px}
+.appendiabiti::after{content:"";position:absolute;left:10%;right:10%;bottom:-6%;height:40%;background:radial-gradient(ellipse at 50% 50%,rgba(212,162,76,.22),transparent 70%);z-index:-1;pointer-events:none}
+.asta{position:relative;z-index:3;height:12px;margin:0 3%;border-radius:6px;background:linear-gradient(180deg,#f7dc95,#c8913f 45%,#6b4320);box-shadow:0 10px 20px -6px rgba(0,0,0,.85),inset 0 1px 0 rgba(255,255,255,.55)}
+.asta::before,.asta::after{content:"";position:absolute;top:50%;width:24px;height:24px;margin-top:-12px;border-radius:50%;background:radial-gradient(circle at 35% 30%,#f7dc95,#a8701f 60%,#4a2e14);box-shadow:0 6px 12px -4px rgba(0,0,0,.8)}
+.asta::before{left:-12px}
+.asta::after{right:-12px}
+.talloncini{list-style:none;margin:-6px 0 0;padding:0;display:flex;justify-content:space-evenly;gap:clamp(6px,2vw,22px)}
+.appeso{position:relative;display:flex;flex-direction:column;align-items:center;width:clamp(92px,30%,172px);container-type:inline-size;transform-origin:50% 0;animation:dondola var(--durata,6s) ease-in-out var(--ritardo,0s) infinite alternate}
+.appeso::before{content:"";position:relative;z-index:2;width:2px;height:calc(var(--filo,60px) + 25px);margin-bottom:-25px;background:linear-gradient(#f7dc95,#a8701f);box-shadow:0 0 6px rgba(247,220,149,.35)}
+@keyframes dondola{from{transform:rotate(-3deg)}to{transform:rotate(3deg)}}
+.talloncino{position:relative;z-index:1;isolation:isolate;display:flex;flex-direction:column;align-items:center;width:100%;aspect-ratio:160/250;padding:30cqi 6cqi 9cqi;text-align:center;text-decoration:none;color:var(--avorio);filter:drop-shadow(0 22px 24px rgba(0,0,0,.6));transition:transform .45s cubic-bezier(.2,.7,.2,1)}
+.talloncino:hover{color:var(--avorio);transform:translateY(-6px)}
+.talloncino .forma{position:absolute;inset:0;width:100%;height:100%;z-index:-1}
+.talloncino .foro{position:absolute;top:18px;left:50%;width:14px;height:14px;margin-left:-7px;border-radius:50%;background:var(--nero);border:2px solid #d4a24c;box-shadow:0 0 0 2px rgba(0,0,0,.35)}
+.talloncino .num{font-family:var(--serif);font-size:9cqi;letter-spacing:.2em;color:var(--oro)}
+.talloncino .nome{font-family:var(--serif);font-weight:600;font-size:9.4cqi;line-height:1.2;margin-top:.5em;letter-spacing:.02em}
+.talloncino .per{font-size:6.6cqi;line-height:1.35;color:var(--tenue);margin-top:.7em}
+.talloncino .premio{margin-top:auto;padding-top:7cqi;width:78%;border-top:1px dashed rgba(212,162,76,.4);font-size:6.2cqi;font-weight:600;letter-spacing:.1em;text-transform:uppercase;line-height:1.3;color:var(--oro-chiaro)}
+.talloncino .codice{margin-top:7cqi;width:64%;height:11%;opacity:.6;background:repeating-linear-gradient(90deg,var(--avorio) 0 1px,transparent 1px 3px,var(--avorio) 3px 5px,transparent 5px 6px,var(--avorio) 6px 7px,transparent 7px 10px)}
+@container (max-width:130px){.talloncino .per,.talloncino .premio{display:none}.talloncino .codice{margin-top:auto}.talloncino .nome{font-size:10cqi}}
+
+.programmi{display:grid;grid-template-columns:repeat(3,1fr);gap:22px;align-items:stretch}
+.programma{display:flex;flex-direction:column;padding:40px 30px 30px;scroll-margin-top:100px}
+.programma .sigillo{position:absolute;top:24px;right:24px;width:54px;height:54px;border-radius:50%;display:grid;place-items:center;font-family:var(--serif);font-size:1.05rem;color:var(--oro-chiaro);border:1px solid var(--linea-forte);background:radial-gradient(circle at 30% 25%,#3a2614,#120d09)}
+.programma .tipo{font-size:.76rem;font-weight:600;letter-spacing:.22em;text-transform:uppercase;color:var(--oro);margin:0 0 10px;padding-right:66px}
+.programma h3{font-size:1.38rem;padding-right:40px;margin-bottom:.4em}
+.programma dl{margin:0}
+.programma dt{margin-top:16px;font-size:.74rem;font-weight:600;letter-spacing:.2em;text-transform:uppercase;color:var(--tenue)}
+.programma dd{margin:4px 0 0;font-size:.97rem}
+.programma .ricevi{margin-top:8px;padding:14px 16px;border-radius:12px;border:1px solid var(--linea-forte);background:rgba(74,46,20,.45);color:var(--testo)}
+.programma .ricevi strong{display:block;margin-bottom:4px;color:var(--oro-chiaro);font-weight:600}
+.scheda.programma .condizioni{margin:auto 0 18px;padding-top:20px;font-size:.78rem;font-weight:600;letter-spacing:.14em;text-transform:uppercase;color:var(--oro)}
+.programma .bottone{position:relative;z-index:1;width:100%;white-space:normal;text-align:center;line-height:1.3;padding:10px 18px}
+
+.frasi{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(3,1fr);gap:22px}
+.frase{position:relative;padding:30px 26px 26px;border-radius:var(--raggio);border:1px solid var(--linea);background:rgba(11,9,7,.45);transition:border-color .4s,background .4s}
+.frase:hover{border-color:var(--linea-forte);background:rgba(42,27,16,.6)}
+.frase q{display:block;quotes:"\00AB" "\00BB";font-family:var(--serif);font-size:1.22rem;line-height:1.35;color:var(--avorio);margin-bottom:18px;padding-bottom:18px;border-bottom:1px dashed var(--linea-forte)}
+.frase q::before,.frase q::after{color:var(--oro)}
+.frase h3{font-family:var(--sans);font-size:.78rem;letter-spacing:.2em;text-transform:uppercase;color:var(--oro);margin-bottom:8px}
+.frase p{margin:0;font-size:.96rem}
+.mostra{display:grid;grid-template-columns:1.2fr 1fr;gap:48px;align-items:center;margin-top:64px;padding:clamp(22px,4vw,44px);border-radius:24px;border:1px solid var(--linea-forte);background:radial-gradient(ellipse at 100% 0%,rgba(107,67,32,.5),transparent 60%),var(--bruno)}
+.mostra h3{font-size:clamp(1.3rem,2.2vw,1.7rem)}
+.mostra-testo .numero{margin-bottom:10px}
+.tu-noi{margin-top:56px}
+
+.cerchiamo{display:grid;grid-template-columns:1fr 1.25fr;gap:56px;align-items:start}
+.cerchiamo .titolo-sezione{margin-bottom:0;position:sticky;top:110px}
+.requisiti{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:1fr 1fr;gap:16px}
+.requisiti li{padding:22px;border-radius:16px;border:1px solid var(--linea);background:linear-gradient(170deg,rgba(42,27,16,.55),rgba(18,13,9,.85));font-size:.95rem}
+.requisiti b{display:block;margin-bottom:6px;font-family:var(--serif);font-size:1.02rem;font-weight:600;color:var(--avorio)}
+
+.candidature{display:grid;grid-template-columns:repeat(3,1fr);gap:16px;text-align:left}
+.candidatura{display:flex;gap:16px;align-items:center;padding:22px;border-radius:16px;border:1px solid var(--linea-forte);background:linear-gradient(160deg,rgba(74,46,20,.55),rgba(11,9,7,.7));text-decoration:none;color:var(--testo);transition:transform .3s,border-color .3s,box-shadow .3s}
+.candidatura:hover{color:var(--testo);transform:translateY(-3px);border-color:var(--oro);box-shadow:0 18px 40px -18px rgba(212,162,76,.5)}
+.candidatura .num{flex:none;width:48px;height:48px;border-radius:50%;display:grid;place-items:center;background:var(--grad-oro);color:#1a1006;font-family:var(--serif);font-weight:700;font-size:.95rem}
+.candidatura b{display:block;color:var(--avorio);font-size:1.05rem;font-weight:600}
+.candidatura small{font-size:.86rem;color:var(--tenue)}
+.invito>p.nota-candidatura{max-width:48em;margin:26px auto 0;font-size:.9rem}
+
+/* fascia partner in home */
+.fascia-partner{position:relative;padding:clamp(48px,7vw,84px) 0;border-top:1px solid var(--linea);background:radial-gradient(ellipse 55% 140% at 100% 50%,rgba(212,162,76,.18),transparent 60%),linear-gradient(90deg,var(--bruno),var(--nero-2))}
+.fascia-partner .contenitore{display:grid;grid-template-columns:auto 1fr auto;gap:36px;align-items:center}
+.fascia-partner .mini{width:64px;transform-origin:50% 0;animation:dondola 5.5s ease-in-out infinite alternate}
+.fascia-partner .occhiello{margin-bottom:10px}
+.fascia-partner h2{font-size:clamp(1.5rem,2.8vw,2.2rem);margin:0 0 .35em}
+.fascia-partner p{margin:0;max-width:40em}
+
+@media (max-width:1100px){
+  .programmi{grid-template-columns:1fr;max-width:760px;margin-inline:auto}
+}
+@media (max-width:1020px){
+  .frasi{grid-template-columns:1fr 1fr}
+  .cerchiamo{grid-template-columns:1fr;gap:36px}
+  .cerchiamo .titolo-sezione{position:static}
+}
+@media (max-width:860px){
+  .mostra{grid-template-columns:1fr;gap:28px}
+  .candidature{grid-template-columns:1fr}
+  .fascia-partner .contenitore{grid-template-columns:auto 1fr;gap:20px 24px}
+  .fascia-partner .azioni{grid-column:1/-1}
+}
+@media (max-width:600px){
+  .frasi,.requisiti{grid-template-columns:1fr}
+  .programma{padding:34px 22px 24px}
+  .programma .sigillo{top:20px;right:18px;width:46px;height:46px;font-size:.95rem}
+  .fascia-partner .mini{width:48px}
+}
+
 /* ---------- WhatsApp flottante ---------- */
 .wa-flottante{position:fixed;right:18px;bottom:max(18px,env(safe-area-inset-bottom));z-index:45;width:54px;height:54px;border-radius:50%;display:grid;place-items:center;color:#1a1006;background:var(--grad-oro);box-shadow:0 12px 30px -8px rgba(0,0,0,.8),0 0 0 1px rgba(247,220,149,.5);transition:transform .3s,box-shadow .3s}
 .wa-flottante svg{width:28px;height:28px}
@@ -338,8 +431,9 @@ body.menu-aperto .wa-flottante{opacity:0;visibility:hidden}
   .manuale-indice[open] summary::after{content:"\2212"}
   .manuale-indice ol{padding-bottom:14px}
 }
-@media (max-width:1180px) and (min-width:861px){
-  .menu{gap:20px}
+@media (max-width:1240px) and (min-width:861px){
+  .menu{gap:18px}
+  .menu .facoltativa{display:none}
   .menu a{font-size:.8rem;letter-spacing:.1em}
 }
 @media (max-width:860px){

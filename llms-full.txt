@@ -1,6 +1,6 @@
 # Sartonero: testo completo per motori di ricerca e assistenti
 
-Fonte ufficiale: https://sartonero.it/ · Aggiornato: 2026-11-06 · Lingua: italiano
+Fonte ufficiale: https://sartonero.it/ · Aggiornato: 2026-11-07 · Lingua: italiano
 
 ## Cos'è
 Sartonero è un gestionale in cloud per negozi di abbigliamento, pensato soprattutto per chi ha 2 o 3 punti vendita. Si usa dal browser di computer, tablet e telefono, senza programmi da installare, e sul telefono si aggiunge alla schermata Home come un'app. È un prodotto di EMC Digital Solutions di Enrico Maria Caruso (Sicilia). È nato dietro la cassa di un vero negozio di abbigliamento con due punti vendita in Sicilia.
@@ -188,6 +188,52 @@ Non è indispensabile: molti negozi emettono lo scontrino fiscale con il registr
 #### Cosa devo provare durante la demo di un gestionale?
 I casi difficili del tuo negozio: un cambio taglia con differenza da pagare, un reso tra negozi, una vendita senza internet, una gift card usata in parte, la chiusura della giornata e l'export dei dati.
 
+
+## Diventa partner (https://sartonero.it/partner.html)
+Programma partner di Sartonero: cerchiamo in tutta Italia chi vuole proporre Sartonero ai negozi di abbigliamento. Tre programmi distinti.
+
+### Rivenditori
+Per chi è: aziende con partita IVA che lavorano già con i negozi (rivenditori di registratori di cassa, informatica e software gestionali, consulenti per il commercio). Cosa fanno: propongono Sartonero ai negozi di abbigliamento che seguono, accanto ai propri prodotti e servizi, mostrano la demo e presentano il negozio. Cosa ricevono: provvigioni ricorrenti su ogni negozio che portano, per tutto il tempo in cui resta cliente; formazione, kit di vendita e demo da mostrare. Condizioni economiche su richiesta.
+
+### Agenti e venditori sul territorio
+Per chi è: agenti di commercio e rappresentanti del settore moda e abbigliamento, venditori che visitano i negozi. Cosa fanno: parlano con i titolari durante i giri, mostrano Sartonero dal telefono o dal tablet e fissano una chiamata. Cosa ricevono: provvigioni ricorrenti su ogni negozio che portano, per tutto il tempo in cui resta cliente; formazione, kit di vendita e un account demo dedicato. Condizioni economiche su richiesta.
+
+### Segnalatori
+Per chi è: chiunque conosca titolari di negozi di abbigliamento (fornitori, commercialisti, grafici, fotografi, clienti, amici e parenti). Cosa fanno: chiedono al negoziante se è d'accordo a essere contattato e segnalano il negozio con un recapito. Cosa ricevono: un compenso per ogni negozio segnalato che diventa cliente, senza obblighi di vendita né di assistenza. Condizioni economiche su richiesta.
+
+### Cosa diamo ai partner
+Formazione su Sartonero e su come presentarlo; kit di vendita (video da 90 secondi e versione verticale, schermate, guide pratiche, manuale d'uso); demo pubblica https://demo.sartonero.it/login; account demo dedicato; assistenza ai negozi seguita da noi (configurazione, import del catalogo, formazione del personale, assistenza via email entro un giorno lavorativo).
+
+### Come funziona
+1. Candidatura via email. 2. Chiamata conoscitiva, in cui si definiscono le condizioni per iscritto. 3. Formazione e consegna del kit di vendita. 4. Primi negozi, con la partenza seguita da noi.
+
+### Candidatura
+Email a info@emcdigitalsolutions.it con oggetto «Candidatura partner Sartonero – [programma]» indicando nome e cognome, azienda e partita IVA se c'è, città e zona, programma scelto, esperienza nel settore e telefono. Il sito non raccoglie né conserva dati: la candidatura parte dal programma di posta di chi scrive.
+
+### Domande frequenti
+#### Serve la partita IVA per diventare partner di Sartonero?
+Per il programma Rivenditori sì: è pensato per aziende già avviate. Per agenti e venditori di solito sì, e l'inquadramento lo definiamo insieme alla chiamata conoscitiva. Per segnalare un negozio non serve essere un'azienda: come riconoscere il compenso lo vediamo insieme, nel rispetto delle regole fiscali.
+
+#### Come si calcolano le provvigioni?
+Per rivenditori e agenti la provvigione è ricorrente: la ricevi su ogni negozio che porti, per tutto il tempo in cui resta cliente. Per i segnalatori è previsto un compenso per ogni negozio segnalato che diventa cliente. Le condizioni economiche le definiamo insieme alla chiamata conoscitiva e le mettiamo per iscritto prima di iniziare.
+
+#### Quanto si guadagna come partner di Sartonero?
+Dipende da quanti negozi porti e da quanto tempo restano clienti, quindi non promettiamo cifre. Le condizioni economiche sono su richiesta e te le illustriamo alla chiamata conoscitiva.
+
+#### Posso lavorare in qualsiasi regione?
+Sì. Sartonero funziona dal browser in tutta Italia e la configurazione dei negozi la facciamo a distanza, quindi puoi proporlo in qualsiasi regione. Zona e modalità di lavoro le chiariamo alla chiamata conoscitiva.
+
+#### Devo occuparmi dell'assistenza ai negozi?
+No. Configurazione, import del catalogo, formazione del personale e assistenza via email ai negozi le seguiamo noi. Se sei un rivenditore e preferisci seguire tu i tuoi clienti, ne parliamo insieme.
+
+#### Devo essere esperto di gestionali?
+No. Ti formiamo noi su Sartonero e su come presentarlo ai negozianti. Serve conoscere i negozi e saperci parlare: la parte tecnica è nostra.
+
+#### Sartonero sostituisce il registratore di cassa?
+No, lo affianca: oggi lo scontrino fiscale si emette con il registratore del negozio e Sartonero gestisce cassa, magazzino e clienti. Il collegamento con la stampante fiscale è in arrivo. Per chi vende registratori di cassa è un servizio in più da proporre, non un concorrente.
+
+#### Posso provare Sartonero prima di candidarmi?
+Sì. Il negozio dimostrativo è pubblico su demo.sartonero.it: si entra con un clic come titolare o come commessa e si può fare anche una vendita. Ogni notte la demo torna come nuova.
 
 ## Video di presentazione (https://sartonero.it/video.html)
 Sartonero in 90 secondi (1:31), anche su YouTube: https://www.youtube.com/watch?v=gALCCHi0P5Q · versione verticale da 41 secondi: https://youtube.com/shorts/O3BdYy_KKw0
