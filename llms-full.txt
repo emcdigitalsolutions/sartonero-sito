@@ -26,7 +26,7 @@ Sartonero è un gestionale in cloud per negozi di abbigliamento, pensato sopratt
 Partenza assistita: configurazione dei negozi e degli utenti, import del catalogo anche da file CSV e formazione del personale fatte da EMC Digital Solutions. Assistenza via email entro un giorno lavorativo. Prezzi su richiesta.
 
 ## Demo e contatti
-- Demo con dati di esempio, accesso con un clic come titolare o commessa: https://erp-demo.emcdigitalsolutions.it/login
+- Demo con dati di esempio, accesso con un clic come titolare o commessa: https://demo.sartonero.it/login
 - Email: info@emcdigitalsolutions.it
 - WhatsApp e telefono: +39 329 434 8075 (https://wa.me/393294348075)
 - Prenota una chiamata: https://calendly.com/emcdigitalsolution/30min

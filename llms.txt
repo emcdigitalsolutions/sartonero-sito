@@ -35,5 +35,5 @@ Partenza assistita: configurazione del negozio, import del catalogo e formazione
 - [Testo completo per motori di ricerca e assistenti](https://sartonero.it/llms-full.txt)
 
 ## Link
-- Demo con dati di esempio (accesso con un clic): https://erp-demo.emcdigitalsolutions.it/login
+- Demo con dati di esempio (accesso con un clic): https://demo.sartonero.it/login
 - Contatti: info@emcdigitalsolutions.it · WhatsApp e telefono +39 329 434 8075 · https://calendly.com/emcdigitalsolution/30min
