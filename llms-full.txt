@@ -27,6 +27,8 @@ Partenza assistita: configurazione dei negozi e degli utenti, import del catalog
 
 ## Demo e contatti
 - Demo con dati di esempio, accesso con un clic come titolare o commessa: https://demo.sartonero.it/login
+- Prova gratuita di 30 giorni per il proprio negozio (iscrizione con conferma dell'email, nessun pagamento, nessun rinnovo automatico; alla scadenza l'accesso si ferma e i dati restano 60 giorni): https://app.sartonero.it/registrati
+- Condizioni della prova gratuita: https://sartonero.it/condizioni-prova.html
 - Email: info@emcdigitalsolutions.it
 - WhatsApp e telefono: +39 329 434 8075 (https://wa.me/393294348075)
 - Prenota una chiamata: https://calendly.com/emcdigitalsolution/30min

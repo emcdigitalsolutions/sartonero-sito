@@ -44,4 +44,6 @@ Ai partner: formazione, kit di vendita, demo da mostrare, supporto nelle prime p
 
 ## Link
 - Demo con dati di esempio (accesso con un clic): https://demo.sartonero.it/login
+- Prova gratuita di 30 giorni per il proprio negozio (iscrizione con conferma dell'email, nessun pagamento, nessun rinnovo automatico): https://app.sartonero.it/registrati
+- Condizioni della prova gratuita: https://sartonero.it/condizioni-prova.html
 - Contatti: info@emcdigitalsolutions.it · WhatsApp e telefono +39 329 434 8075 · https://calendly.com/emcdigitalsolution/30min
