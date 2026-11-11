@@ -1,6 +1,8 @@
 # Sartonero
 
-> Sartonero è un gestionale in cloud per negozi di abbigliamento, pensato soprattutto per chi ha 2 o 3 punti vendita. Funziona dal browser di computer, tablet e telefono, in italiano, e si installa come app sul telefono. È un prodotto di EMC Digital Solutions (Enrico Maria Caruso, Sicilia), nato in un vero negozio di abbigliamento con due punti vendita in Sicilia.
+Aggiornato: 2026-11-11 · Lingua: italiano · Sito: https://sartonero.it/
+
+> Sartonero è un gestionale in cloud per negozi di abbigliamento, da uno a tre punti vendita. Funziona dal browser di computer, tablet e telefono, in italiano, e si installa come app sul telefono. È un prodotto di EMC Digital Solutions (Enrico Maria Caruso, Sicilia), nato in un vero negozio di abbigliamento con due punti vendita in Sicilia.
 
 ## Cosa fa
 - Cassa veloce con lettore di codici a barre, sconti, buoni e gift card; continua a vendere anche senza internet e sincronizza al ritorno della connessione, senza doppioni.
@@ -14,12 +16,20 @@
 - Ruoli separati: titolare, responsabile, commessa.
 - Chiusura giornata via email con report PDF, export completo dei dati in qualsiasi momento, copia di sicurezza notturna.
 - Tour guidato, procedura di primo avvio, aspetto con logo e colori del negozio.
+- Lettura del codice a barre anche con la fotocamera del telefono o del tablet, senza lettore.
+- App installabile su telefono e tablet con il nome e l'icona del negozio.
 
 ## Cosa non fa ancora
 - Il collegamento alla stampante fiscale (registratore telematico) è in arrivo: oggi lo scontrino fiscale si emette con il proprio registratore e Sartonero stampa lo scontrino di cortesia e lo scontrino regalo.
 
 ## Come si parte
-Partenza assistita: configurazione del negozio, import del catalogo e formazione del personale fatte da noi; assistenza via email entro un giorno lavorativo. Prezzi su richiesta.
+Partenza assistita: configurazione del negozio, import del catalogo e formazione del personale fatte da noi; assistenza via email entro un giorno lavorativo. Il programma non ha costi di licenza né di attivazione: si paga un canone annuale di manutenzione e assistenza (aggiornamenti, copie di sicurezza, ore di assistenza con una persona). La cifra per il proprio negozio viene comunicata prima della fine della prova gratuita di 30 giorni.
+
+## Dati e sicurezza
+- Dati del gestionale su server in Unione Europea; ogni negozio vede solo i propri dati, accessi separati per ruolo.
+- Copia di sicurezza automatica ogni notte, conservata anche in una seconda copia cifrata in Unione Europea.
+- Esportazione completa di tutti i dati del negozio in qualsiasi momento, in file apribili con Excel: i dati restano del negozio.
+- Dopo la prova gratuita, se il negozio non prosegue, i dati restano conservati 60 giorni e poi vengono cancellati.
 
 ## Pagine
 - [Pagina iniziale](https://sartonero.it/): funzioni, schermate, domande frequenti e contatti.
@@ -32,7 +42,6 @@ Partenza assistita: configurazione del negozio, import del catalogo e formazione
 - [Inventario di fine anno](https://sartonero.it/inventario-fine-anno.html): guida pratica alla conta di fine anno.
 - [Video di presentazione](https://sartonero.it/video.html): Sartonero in 90 secondi, con i capitoli (cassa, offline, trasferimenti, gift card, margini, chiusura).
 - [Manuale d'uso](https://sartonero.it/manuale.html): 24 capitoli, dalla prima vendita alla chiusura della giornata.
-- [Diventa partner](https://sartonero.it/partner.html): programmi per rivenditori, agenti e segnalatori che vogliono vendere Sartonero ai negozi di abbigliamento.
 - [Testo completo per motori di ricerca e assistenti](https://sartonero.it/llms-full.txt)
 
 ## Programma partner
@@ -47,3 +56,9 @@ Ai partner: formazione, kit di vendita, demo da mostrare, supporto nelle prime p
 - Prova gratuita di 30 giorni per il proprio negozio (iscrizione con conferma dell'email, nessun pagamento, nessun rinnovo automatico): https://app.sartonero.it/registrati
 - Condizioni della prova gratuita: https://sartonero.it/condizioni-prova.html
 - Contatti: info@emcdigitalsolutions.it · WhatsApp e telefono +39 329 434 8075 · https://calendly.com/emcdigitalsolution/30min
+- Video su YouTube: https://www.youtube.com/watch?v=gALCCHi0P5Q
+
+## Optional
+- [Diventa partner](https://sartonero.it/partner.html): programmi per rivenditori, agenti e segnalatori che vogliono vendere Sartonero ai negozi di abbigliamento.
+- [Privacy](https://sartonero.it/privacy.html): come vengono trattati i dati del sito e del gestionale.
+- [Condizioni della prova gratuita](https://sartonero.it/condizioni-prova.html)

@@ -1,9 +1,9 @@
 # Sartonero: testo completo per motori di ricerca e assistenti
 
-Fonte ufficiale: https://sartonero.it/ · Aggiornato: 2026-11-07 · Lingua: italiano
+Fonte ufficiale: https://sartonero.it/ · Aggiornato: 2026-11-11 · Lingua: italiano
 
 ## Cos'è
-Sartonero è un gestionale in cloud per negozi di abbigliamento, pensato soprattutto per chi ha 2 o 3 punti vendita. Si usa dal browser di computer, tablet e telefono, senza programmi da installare, e sul telefono si aggiunge alla schermata Home come un'app. È un prodotto di EMC Digital Solutions di Enrico Maria Caruso (Sicilia). È nato dietro la cassa di un vero negozio di abbigliamento con due punti vendita in Sicilia.
+Sartonero è un gestionale in cloud per negozi di abbigliamento, da uno a tre punti vendita: va bene per un solo negozio ed è pensato anche per chi ne ha due o tre. Si usa dal browser di computer, tablet e telefono, senza programmi da installare, e sul telefono si aggiunge alla schermata Home come un'app. È un prodotto di EMC Digital Solutions di Enrico Maria Caruso (Sicilia). È nato dietro la cassa di un vero negozio di abbigliamento con due punti vendita in Sicilia.
 
 ## Funzioni disponibili
 - Cassa veloce con lettore di codici a barre, ricerca per nome, sconti, buoni, gift card, pagamento in contanti, carta o misto.
@@ -19,11 +19,20 @@ Sartonero è un gestionale in cloud per negozi di abbigliamento, pensato sopratt
 - Chiusura giornata via email con report PDF, anche automatica; report vendite e resi; export completo dei dati in qualsiasi momento; copia di sicurezza ogni notte.
 - Tour guidato, procedura di primo avvio, aspetto del gestionale con logo e colori del negozio.
 
+- Lettura del codice a barre anche con la fotocamera del telefono o del tablet, senza lettore.
+- App installabile su telefono e tablet con il nome e l'icona del negozio.
+
 ## Cosa non c'è ancora
 - Collegamento alla stampante fiscale (registratore telematico): in arrivo, non ancora disponibile. Oggi lo scontrino fiscale si emette con il proprio registratore; Sartonero stampa lo scontrino di cortesia e lo scontrino regalo.
 
 ## Come si parte e assistenza
-Partenza assistita: configurazione dei negozi e degli utenti, import del catalogo anche da file CSV e formazione del personale fatte da EMC Digital Solutions. Assistenza via email entro un giorno lavorativo. Prezzi su richiesta.
+Partenza assistita: configurazione dei negozi e degli utenti, import del catalogo anche da file CSV e formazione del personale fatte da EMC Digital Solutions. Assistenza via email entro un giorno lavorativo. Il programma non ha costi di licenza né di attivazione: si paga un canone annuale di manutenzione e assistenza (aggiornamenti, copie di sicurezza, ore di assistenza con una persona). La cifra per il proprio negozio viene comunicata prima della fine della prova gratuita di 30 giorni.
+
+## Dati e sicurezza
+- Dati del gestionale su server in Unione Europea; ogni negozio vede solo i propri dati, accessi separati per ruolo.
+- Copia di sicurezza automatica ogni notte, conservata anche in una seconda copia cifrata in Unione Europea.
+- Esportazione completa di tutti i dati del negozio in qualsiasi momento, in file apribili con Excel: i dati restano del negozio.
+- Dopo la prova gratuita, se il negozio non prosegue, i dati restano conservati 60 giorni e poi vengono cancellati.
 
 ## Demo e contatti
 - Demo con dati di esempio, accesso con un clic come titolare o commessa: https://demo.sartonero.it/login
@@ -50,7 +59,7 @@ Ogni negozio vede solo i propri dati, gli accessi sono separati per ruolo e ogni
 Sì. Dalle impostazioni puoi scaricare in qualsiasi momento tutti i dati del negozio in file CSV, apribili con Excel: i dati restano tuoi.
 
 ### Funziona con la stampante fiscale?
-Oggi Sartonero stampa le etichette con il codice a barre e la ricevuta di cortesia. Il collegamento con la stampante fiscale è in collaudo e arriverà a breve.
+Oggi Sartonero stampa le etichette con il codice a barre e la scontrino di cortesia. Il collegamento con la stampante fiscale è in collaudo e arriverà a breve.
 
 ### Quanto tempo serve per partire?
 Pochi giorni. Configuriamo noi negozi, utenti e commesse, importiamo il catalogo anche da file CSV e formiamo il personale. Il tour guidato accompagna titolare e commesse nei primi giorni.
@@ -64,6 +73,18 @@ Sì. Le gift card si vendono in cassa oppure sul sito del negozio con pagamento 
 ### Come posso provare Sartonero?
 C'è un negozio dimostrativo con dati di esempio: si entra con un clic come titolare o come commessa e si può fare anche una vendita. Ogni notte la demo torna come nuova.
 
+
+D: Quanto costa Sartonero?
+R: Il programma non ha costi di licenza né di attivazione: si paga un canone annuale di manutenzione e assistenza, che comprende aggiornamenti, copie di sicurezza e ore di assistenza con una persona vera. Prima della fine dei 30 giorni di prova ti diciamo la cifra esatta per il tuo negozio: se non ti convince, non paghi nulla.
+
+D: Uso già un altro programma: posso passare a Sartonero?
+R: Sì. Se il tuo programma esporta gli articoli in Excel o in CSV, li importiamo noi con taglie, colori, prezzi e quantità; ti affianchiamo nei primi giorni finché il negozio non lavora tranquillo.
+
+D: Cosa succede se smetto di usarlo?
+R: I dati restano tuoi: in qualsiasi momento scarichi tutto in file apribili con Excel. Dopo la prova gratuita, se non prosegui, i dati restano conservati 60 giorni e poi vengono cancellati.
+
+D: Cosa mi serve per iniziare?
+R: Basta un computer, un tablet o un telefono con un browser aggiornato. Il lettore di codici a barre e la stampante di etichette sono consigliati ma non obbligatori: il codice si legge anche con la fotocamera.
 
 ## Gestionale per più negozi (https://sartonero.it/gestionale-piu-negozi.html)
 Due o tre punti vendita, un solo magazzino: giacenze per negozio, trasferimenti tracciati, cambi tra sedi e ruoli separati. Guida pratica e demo.
@@ -236,6 +257,64 @@ No, lo affianca: oggi lo scontrino fiscale si emette con il registratore del neg
 
 #### Posso provare Sartonero prima di candidarmi?
 Sì. Il negozio dimostrativo è pubblico su demo.sartonero.it: si entra con un clic come titolare o come commessa e si può fare anche una vendita. Ogni notte la demo torna come nuova.
+
+## Inventario di fine anno (https://sartonero.it/inventario-fine-anno.html)
+Aggiornato l'11 novembre 2026 · di Enrico Maria Caruso, che ha creato Sartonero insieme a un negozio di abbigliamento con due punti vendita
+
+A fine anno ogni negozio deve sapere quanta merce ha in casa e quanto vale: sono le rimanenze finali, che il commercialista usa per chiudere i conti. In un negozio di abbigliamento è più difficile che altrove, perché lo stesso articolo esiste in tante taglie e tanti colori, e spesso in più punti vendita. Ecco come organizzarsi.
+
+### 1. Scegli il giorno e dividi il lavoro
+
+La conta si fa a negozio chiuso: il 31 dicembre dopo la chiusura o il primo giorno utile, prima di riaprire. Dividi il negozio in zone (vetrine, banchi, appesi, magazzino, camerini) e assegna ogni zona a una persona, così nessuno conta due volte la stessa merce.
+
+### 2. Chiudi i movimenti in sospeso
+
+Prima di contare registra tutto quello che è ancora aperto: carichi arrivati dai fornitori, resi, cambi e soprattutto i trasferimenti tra negozi. Un capo «in viaggio» dal centro alla succursale è il primo responsabile delle differenze di fine anno.
+
+### 3. Metti in ordine prima di contare
+
+- Riunisci lo stesso articolo in un unico punto, divisi per taglia e colore.
+
+- Stampa le etichette con il codice a barre che mancano o si sono rovinate.
+
+- Separa la merce messa da parte dai clienti con acconto: è ancora tua, va contata.
+
+- Metti da parte i capi difettosi: vanno contati a parte e segnalati al commercialista.
+
+### 4. Conta con il lettore, zona per zona
+
+Carta e penna funzionano, ma con taglie e colori gli errori sono dietro l'angolo. Con un lettore di codici a barre basta passare ogni capo: la quantità di ogni variante si somma da sola e non devi trascrivere nulla.
+
+### 5. Guarda solo le differenze
+
+Alla fine confronta la conta con le giacenze registrate. Non ricontare tutto: ricontrolla solo gli articoli che non tornano. Spesso la differenza è un cambio fatto in fretta, un capo nel negozio sbagliato o un'etichetta scambiata.
+
+### 6. Rettifica e calcola il valore
+
+Corrette le giacenze, calcola il valore delle rimanenze al prezzo d'acquisto. Per questo conviene avere il costo compilato su ogni articolo durante l'anno: a dicembre non dovrai ricostruirlo dalle fatture.
+
+### 7. Consegna il riepilogo al commercialista
+
+Prepara un elenco con articolo, taglia, colore, quantità e valore, diviso per punto vendita se ne hai più di uno. Chiedi al tuo commercialista in che formato lo preferisce: sul metodo di valutazione e sui documenti decide lui.
+
+### Come lo fa Sartonero
+
+- Inventario fisico col lettore: conti la merce leggendo i codici a barre, capo per capo, anche in più persone e da più dispositivi.
+
+- Differenze automatiche: il gestionale confronta la conta con le giacenze e ti mostra solo quello che non torna.
+
+- Rettifica con un clic: le giacenze si correggono e resta traccia di ogni movimento.
+
+- Più negozi: giacenze e trasferimenti di ogni punto vendita, così sai sempre dove si trova un capo.
+
+- Valore del magazzino e dati esportabili in CSV, da consegnare al commercialista.
+
+ Prova l'inventario nella demo
+ Parliamone
+
+Per i dettagli passo per passo leggi il capitolo Magazzino, inventario e ordini del manuale; per impostare bene codici ed etichette durante l'anno c'è la guida Magazzino taglie e colori.
+
+Questa guida è un aiuto pratico per organizzare la conta e non sostituisce le indicazioni del tuo commercialista sugli obblighi fiscali.
 
 ## Video di presentazione (https://sartonero.it/video.html)
 Sartonero in 90 secondi (1:31), anche su YouTube: https://www.youtube.com/watch?v=gALCCHi0P5Q · versione verticale da 41 secondi: https://youtube.com/shorts/O3BdYy_KKw0
