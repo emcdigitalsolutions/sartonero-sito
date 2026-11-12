@@ -1,6 +1,6 @@
 # Sartonero: testo completo per motori di ricerca e assistenti
 
-Fonte ufficiale: https://sartonero.it/ · Aggiornato: 2026-11-11 · Lingua: italiano
+Fonte ufficiale: https://sartonero.it/ · Aggiornato: 2026-11-12 · Lingua: italiano
 
 ## Cos'è
 Sartonero è un gestionale in cloud per negozi di abbigliamento, da uno a tre punti vendita: va bene per un solo negozio ed è pensato anche per chi ne ha due o tre. Si usa dal browser di computer, tablet e telefono, senza programmi da installare, e sul telefono si aggiunge alla schermata Home come un'app. È un prodotto di EMC Digital Solutions di Enrico Maria Caruso (Sicilia). È nato dietro la cassa di un vero negozio di abbigliamento con due punti vendita in Sicilia.
@@ -26,7 +26,7 @@ Sartonero è un gestionale in cloud per negozi di abbigliamento, da uno a tre pu
 - Collegamento alla stampante fiscale (registratore telematico): in arrivo, non ancora disponibile. Oggi lo scontrino fiscale si emette con il proprio registratore; Sartonero stampa lo scontrino di cortesia e lo scontrino regalo.
 
 ## Come si parte e assistenza
-Partenza assistita: configurazione dei negozi e degli utenti, import del catalogo anche da file CSV e formazione del personale fatte da EMC Digital Solutions. Assistenza via email entro un giorno lavorativo. Il programma non ha costi di licenza né di attivazione: si paga un canone annuale di manutenzione e assistenza (aggiornamenti, copie di sicurezza, ore di assistenza con una persona). La cifra per il proprio negozio viene comunicata prima della fine della prova gratuita di 30 giorni.
+Partenza assistita: configurazione dei negozi e degli utenti, import del catalogo anche da file CSV e formazione del personale fatte da EMC Digital Solutions. Assistenza via email entro un giorno lavorativo. Prezzo: programma gratuito (nessun costo di licenza né di attivazione); manutenzione e assistenza € 490 l'anno per l'azienda con il primo negozio, € 190 l'anno per ogni negozio in più, prezzo finale senza IVA da aggiungere. Compresi aggiornamenti, copie di sicurezza, correzione degli errori e 8 ore l'anno di assistenza e formazione; ore in più a pacchetti da 5 ore a € 200. Prova gratuita 30 giorni senza carta e rimborso completo entro 30 giorni dal primo pagamento. Se non si rinnova: 30 giorni di tolleranza, poi sola lettura per 12 mesi con i dati esportabili. Dettagli: https://sartonero.it/prezzi.html
 
 ## Dati e sicurezza
 - Dati del gestionale su server in Unione Europea; ogni negozio vede solo i propri dati, accessi separati per ruolo.
@@ -75,7 +75,7 @@ C'è un negozio dimostrativo con dati di esempio: si entra con un clic come tito
 
 
 D: Quanto costa Sartonero?
-R: Il programma non ha costi di licenza né di attivazione: si paga un canone annuale di manutenzione e assistenza, che comprende aggiornamenti, copie di sicurezza e ore di assistenza con una persona vera. Prima della fine dei 30 giorni di prova ti diciamo la cifra esatta per il tuo negozio: se non ti convince, non paghi nulla.
+R: Il programma è gratuito: nessun costo di licenza né di attivazione. Si paga solo manutenzione e assistenza: € 490 l'anno per un negozio, € 190 l'anno per ogni negozio in più, prezzo finale. Sono compresi aggiornamenti, copie di sicurezza, correzione degli errori e 8 ore l'anno di assistenza e formazione con una persona. Prima provi gratis 30 giorni, e dopo il primo pagamento hai altri 30 giorni per chiedere il rimborso completo.
 
 D: Uso già un altro programma: posso passare a Sartonero?
 R: Sì. Se il tuo programma esporta gli articoli in Excel o in CSV, li importiamo noi con taglie, colori, prezzi e quantità; ti affianchiamo nei primi giorni finché il negozio non lavora tranquillo.
@@ -315,6 +315,21 @@ Prepara un elenco con articolo, taglia, colore, quantità e valore, diviso per p
 Per i dettagli passo per passo leggi il capitolo Magazzino, inventario e ordini del manuale; per impostare bene codici ed etichette durante l'anno c'è la guida Magazzino taglie e colori.
 
 Questa guida è un aiuto pratico per organizzare la conta e non sostituisce le indicazioni del tuo commercialista sugli obblighi fiscali.
+
+## Prezzi (https://sartonero.it/prezzi.html)
+Sartonero non ha costi di licenza né di attivazione: si pagano solo manutenzione e assistenza, € 490 l'anno per l'azienda con il primo negozio compreso e € 190 l'anno per ogni negozio in più (2 negozi € 680, 3 negozi € 870), prezzo finale senza IVA da aggiungere. Comprende servizio in cloud, aggiornamenti, copie di sicurezza ogni notte (anche cifrate, in Unione Europea), correzione degli errori senza limiti e 8 ore l'anno di assistenza e formazione con una persona; le correzioni di errori non consumano le ore, e l'avvio (importazione del catalogo e formazione) rientra nelle 8 ore del primo anno. Ore in più: pacchetto da 5 ore a € 200, valido 12 mesi. Pagamento annuale anticipato con bonifico, a richiesta due rate da € 255 per un negozio; nessun limite di utenti, commesse e articoli. Prova gratuita di 30 giorni senza carta e rimborso completo entro 30 giorni dal primo pagamento; senza rinnovo restano 30 giorni di tolleranza, poi 12 mesi in sola lettura con i dati sempre esportabili. Per i primi 10 negozi: prezzo bloccato per 3 anni e avvio in negozio (di persona in Sicilia, in videochiamata altrove), in cambio di una recensione pubblica.
+
+## Gestionale e registratore telematico (https://sartonero.it/registratore-telematico-gestionale.html)
+Il registratore telematico emette lo scontrino fiscale (documento commerciale), memorizza i corrispettivi e li invia all'Agenzia delle Entrate; il gestionale tiene magazzino per taglia e colore, incassi, resi e chiusura. Oggi con Sartonero il negozio emette lo scontrino fiscale con il proprio registratore e registra la vendita nel gestionale, che stampa lo scontrino di cortesia e lo scontrino regalo (non fiscali). La chiusura si fa quadrare confrontando i totali per forma di pagamento e il numero delle vendite. Il collegamento diretto è in collaudo e toglierà la doppia digitazione; è pensato per i registratori Epson collegati in rete, per le altre marche si verifica caso per caso. Il collegamento tra POS e registratore e il codice lotteria riguardano il registratore, non il gestionale.
+
+## Saldi nel negozio di abbigliamento (https://sartonero.it/saldi-negozio-abbigliamento.html)
+Le date dei saldi le fissano le Regioni: in generale i saldi invernali partono nei primi giorni di gennaio e quelli estivi a inizio luglio, con durata fino a 60 giorni secondo la Regione; le date si verificano sul sito della Regione, della Camera di Commercio o dell'associazione di categoria. Il cartellino indica prezzo normale, sconto in percentuale e prezzo finale, e il capo si vende al prezzo esposto. Il cambio di un capo non difettoso è una cortesia del negozio, mentre la garanzia legale vale anche in saldo. In Sartonero lo sconto si imposta in blocco per marchio, categoria o singoli prodotti, con date di inizio e fine; la cassa mostra il prezzo scontato leggendo il codice a barre di sempre, e il report Margini e invenduto indica quali capi scontare.
+
+## Alternative al gestionale per negozio di abbigliamento (https://sartonero.it/alternative-gestionale-negozio-abbigliamento.html)
+La guida divide i gestionali in quattro famiglie (cassa generica in cloud, gestionale di fatturazione con magazzino, gestionale verticale per la moda, piattaforma e-commerce con cassa) e confronta Cassa in Cloud Retail, Tilby, Danea Easyfatt, Loyverse, Shopify POS e Sartonero usando solo i dati delle pagine ufficiali verificati l'11-12 novembre 2026. Sartonero: programma gratuito; manutenzione e assistenza € 490 l'anno per l'azienda più € 190 per ogni negozio in più; taglie e colori con codice a barre; da 1 a 3 negozi; gift card vendute anche dal sito del negozio; cassa che vende senza internet. Il collegamento al registratore telematico è in collaudo, ed è il punto in cui altri programmi oggi sono avanti. Sartonero non è indicato per chi vende soprattutto online, per chi ha bisogno subito del registratore collegato, per chi ha più di 3 negozi o un franchising, e per chi vuole la fatturazione elettronica nello stesso programma: Sartonero non la emette.
+
+## Chi siamo (https://sartonero.it/chi-siamo.html)
+Sartonero è sviluppato in Sicilia da Enrico Maria Caruso, sviluppatore e docente, con EMC Digital Solutions, insieme a un negozio di abbigliamento con due punti vendita in Sicilia, e migliorato ogni settimana con chi lo usa. Principi: i dati restano del negozio (esportazione sempre disponibile, server in Unione Europea); si parla con una persona, con risposta entro un giorno lavorativo; si dice con sincerità se Sartonero non fa per il negozio; si dichiara cosa è pronto e cosa è in collaudo.
 
 ## Video di presentazione (https://sartonero.it/video.html)
 Sartonero in 90 secondi (1:31), anche su YouTube: https://www.youtube.com/watch?v=gALCCHi0P5Q · versione verticale da 41 secondi: https://youtube.com/shorts/O3BdYy_KKw0

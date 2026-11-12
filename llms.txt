@@ -1,6 +1,6 @@
 # Sartonero
 
-Aggiornato: 2026-11-11 · Lingua: italiano · Sito: https://sartonero.it/
+Aggiornato: 2026-11-12 · Lingua: italiano · Sito: https://sartonero.it/
 
 > Sartonero è un gestionale in cloud per negozi di abbigliamento, da uno a tre punti vendita. Funziona dal browser di computer, tablet e telefono, in italiano, e si installa come app sul telefono. È un prodotto di EMC Digital Solutions (Enrico Maria Caruso, Sicilia), nato in un vero negozio di abbigliamento con due punti vendita in Sicilia.
 
@@ -23,7 +23,7 @@ Aggiornato: 2026-11-11 · Lingua: italiano · Sito: https://sartonero.it/
 - Il collegamento alla stampante fiscale (registratore telematico) è in arrivo: oggi lo scontrino fiscale si emette con il proprio registratore e Sartonero stampa lo scontrino di cortesia e lo scontrino regalo.
 
 ## Come si parte
-Partenza assistita: configurazione del negozio, import del catalogo e formazione del personale fatte da noi; assistenza via email entro un giorno lavorativo. Il programma non ha costi di licenza né di attivazione: si paga un canone annuale di manutenzione e assistenza (aggiornamenti, copie di sicurezza, ore di assistenza con una persona). La cifra per il proprio negozio viene comunicata prima della fine della prova gratuita di 30 giorni.
+Partenza assistita: configurazione del negozio, import del catalogo e formazione del personale fatte da noi; assistenza via email entro un giorno lavorativo. Prezzo: programma gratuito (nessun costo di licenza né di attivazione); manutenzione e assistenza € 490 l'anno per l'azienda con il primo negozio, € 190 l'anno per ogni negozio in più, prezzo finale senza IVA da aggiungere. Compresi aggiornamenti, copie di sicurezza, correzione degli errori e 8 ore l'anno di assistenza e formazione; ore in più a pacchetti da 5 ore a € 200. Prova gratuita 30 giorni senza carta e rimborso completo entro 30 giorni dal primo pagamento. Se non si rinnova: 30 giorni di tolleranza, poi sola lettura per 12 mesi con i dati esportabili. Dettagli: https://sartonero.it/prezzi.html
 
 ## Dati e sicurezza
 - Dati del gestionale su server in Unione Europea; ogni negozio vede solo i propri dati, accessi separati per ruolo.
@@ -40,6 +40,10 @@ Partenza assistita: configurazione del negozio, import del catalogo e formazione
 - [Fidelity card con QR](https://sartonero.it/fidelity-card-negozio-abbigliamento.html): punti, premi, iscrizione dal telefono, consenso privacy.
 - [Come scegliere il gestionale](https://sartonero.it/come-scegliere-gestionale-negozio-abbigliamento.html): checklist neutrale di 12 punti e risposte di Sartonero.
 - [Inventario di fine anno](https://sartonero.it/inventario-fine-anno.html): guida pratica alla conta di fine anno.
+- [Gestionale e registratore telematico](https://sartonero.it/registratore-telematico-gestionale.html): chi fa cosa tra registratore e gestionale, come si lavora oggi con Sartonero (scontrino fiscale sul proprio registratore), come quadrare la chiusura, collegamento diretto in collaudo.
+- [Saldi nel negozio di abbigliamento](https://sartonero.it/saldi-negozio-abbigliamento.html): date regionali e come verificarle, cartellini, prezzo esposto, cambi e resi, cosa scontare leggendo margini e invenduto, checklist.
+- [Alternative al gestionale per negozio di abbigliamento](https://sartonero.it/alternative-gestionale-negozio-abbigliamento.html): confronto con le fonti tra Cassa in Cloud, Tilby, Danea Easyfatt, Loyverse, Shopify POS e Sartonero, e i casi in cui Sartonero non conviene.
+- [Chi siamo](https://sartonero.it/chi-siamo.html): Enrico Maria Caruso ed EMC Digital Solutions, come è nato Sartonero, principi, cosa è pronto e cosa è in collaudo.
 - [Video di presentazione](https://sartonero.it/video.html): Sartonero in 90 secondi, con i capitoli (cassa, offline, trasferimenti, gift card, margini, chiusura).
 - [Manuale d'uso](https://sartonero.it/manuale.html): 24 capitoli, dalla prima vendita alla chiusura della giornata.
 - [Testo completo per motori di ricerca e assistenti](https://sartonero.it/llms-full.txt)
